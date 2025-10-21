@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Ship_Date,Customer_ID,Customer_Name,Segment,Country,Region,Product_Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+ORD1000,2022-01-01,2022-01-02,CUST591,Arjun,Consumer,Australia,Europe,Furniture,Chairs,Ergonomic Chair,1176,1,0.19,243
+ORD1001,2022-01-02,2022-01-03,CUST934,Priya,Corporate,India,Asia,Technology,Copiers,Office Desk,1509,1,0.21,218
+ORD1002,2022-01-03,2022-01-04,CUST393,Arjun,Consumer,France,Europe,Technology,Copiers,Desk Phone,910,2,0.05,226
+ORD1003,2022-01-04,2022-01-05,CUST677,Neha,Home Office,Germany,Europe,Furniture,Storage,Office Desk,1344,9,0.05,278
+ORD1004,2022-01-05,2022-01-06,CUST726,Karan,Corporate,Australia,Oceania,Technology,Binders,Ink Cartridge,1180,3,0.01,274
+ORD1005,2022-01-06,2022-01-07,CUST196,Vikram,Home Office,Canada,Oceania,Furniture,Phones,Office Desk,1145,1,0.22,-75
+ORD1006,2022-01-07,2022-01-08,CUST956,Manoj,Consumer,Germany,North America,Technology,Accessories,Wireless Mouse,1774,5,0.2,194
+ORD1007,2022-01-08,2022-01-09,CUST146,Anjali,Consumer,India,Europe,Technology,Chairs,Desk Phone,1094,7,0.14,375
+ORD1008,2022-01-09,2022-01-10,CUST518,Vikram,Corporate,France,Asia,Office Supplies,Copiers,Office Desk,1688,6,0.25,124
+ORD1009,2022-01-10,2022-01-11,CUST448,Karan,Home Office,India,Europe,Office Supplies,Binders,Ink Cartridge,171,1,0.24,191
+ORD1010,2022-01-11,2022-01-12,CUST193,Neha,Home Office,India,Asia,Office Supplies,Copiers,Ergonomic Chair,516,5,0.18,487
+ORD1011,2022-01-12,2022-01-13,CUST927,Neha,Home Office,USA,Oceania,Technology,Chairs,Office Desk,1288,5,0.26,427
+ORD1012,2022-01-13,2022-01-14,CUST739,Ravi,Corporate,Australia,North America,Technology,Binders,Wireless Mouse,380,6,0.06,239
+ORD1013,2022-01-14,2022-01-15,CUST835,Arjun,Home Office,Germany,Asia,Office Supplies,Phones,Desk Phone,1532,3,0.03,3
+ORD1014,2022-01-15,2022-01-16,CUST780,Arjun,Corporate,Australia,North America,Technology,Chairs,Desk Phone,137,5,0.08,285
+ORD1015,2022-01-16,2022-01-17,CUST744,Priya,Home Office,India,Europe,Technology,Copiers,Ergonomic Chair,1446,7,0.02,-170
+ORD1016,2022-01-17,2022-01-18,CUST879,Manoj,Home Office,Canada,North America,Technology,Storage,Ink Cartridge,1173,5,0.16,187
+ORD1017,2022-01-18,2022-01-19,CUST320,Vikram,Corporate,France,Asia,Furniture,Binders,Desk Phone,921,5,0.28,424
+ORD1018,2022-01-19,2022-01-20,CUST664,Ravi,Consumer,Germany,Asia,Furniture,Binders,Desk Phone,1737,5,0.01,233
+ORD1019,2022-01-20,2022-01-21,CUST292,Manoj,Home Office,Germany,Asia,Office Supplies,Phones,Laptop Stand,180,3,0.04,175
+ORD1020,2022-01-21,2022-01-22,CUST258,Priya,Corporate,Australia,North America,Technology,Storage,Wireless Mouse,1735,1,0.14,143
+ORD1021,2022-01-22,2022-01-23,CUST538,Priya,Consumer,India,Europe,Office Supplies,Storage,Wireless Mouse,1382,5,0.28,242
+ORD1022,2022-01-23,2022-01-24,CUST791,Anjali,Consumer,Germany,Asia,Office Supplies,Accessories,Ergonomic Chair,819,9,0.09,378
+ORD1023,2022-01-24,2022-01-25,CUST831,Neha,Consumer,India,North America,Technology,Binders,Wireless Mouse,393,1,0.15,-126
+ORD1024,2022-01-25,2022-01-26,CUST240,Priya,Corporate,France,Oceania,Office Supplies,Accessories,Wireless Mouse,1565,3,0.01,356
+ORD1025,2022-01-26,2022-01-27,CUST704,Priya,Corporate,France,Oceania,Technology,Accessories,Ergonomic Chair,1487,4,0.04,571
+ORD1026,2022-01-27,2022-01-28,CUST247,Manoj,Consumer,France,Oceania,Furniture,Copiers,Wireless Mouse,855,1,0.3,465
+ORD1027,2022-01-28,2022-01-29,CUST949,Ravi,Home Office,Canada,North America,Furniture,Phones,Office Desk,435,1,0.29,-46
+ORD1028,2022-01-29,2022-01-30,CUST382,Ravi,Corporate,Canada,Asia,Furniture,Accessories,Laptop Stand,1265,8,0.0,229
+ORD1029,2022-01-30,2022-01-31,CUST692,Manoj,Consumer,Canada,North America,Office Supplies,Binders,Ergonomic Chair,1005,2,0.29,162
+ORD1030,2022-01-31,2022-02-01,CUST937,Ravi,Corporate,Germany,Oceania,Furniture,Phones,Wireless Mouse,326,8,0.19,247
+ORD1031,2022-02-01,2022-02-02,CUST373,Priya,Consumer,USA,Asia,Furniture,Accessories,Laptop Stand,1234,7,0.26,33
+ORD1032,2022-02-02,2022-02-03,CUST399,Manoj,Home Office,Canada,Oceania,Furniture,Binders,Desk Phone,509,2,0.14,362
+ORD1033,2022-02-03,2022-02-04,CUST259,Vikram,Corporate,USA,Oceania,Furniture,Accessories,Ergonomic Chair,1387,6,0.15,61
+ORD1034,2022-02-04,2022-02-05,CUST885,Priya,Corporate,France,Asia,Technology,Accessories,Office Desk,71,6,0.15,-76
+ORD1035,2022-02-05,2022-02-06,CUST828,Anjali,Corporate,India,North America,Technology,Accessories,Ink Cartridge,302,3,0.2,44
+ORD1036,2022-02-06,2022-02-07,CUST255,Ravi,Corporate,India,North America,Technology,Accessories,Desk Phone,797,2,0.04,341
+ORD1037,2022-02-07,2022-02-08,CUST478,Anjali,Corporate,France,Oceania,Office Supplies,Phones,Laptop Stand,906,1,0.01,284
+ORD1038,2022-02-08,2022-02-09,CUST757,Ravi,Corporate,Australia,Asia,Technology,Storage,Wireless Mouse,1634,6,0.09,-79
+ORD1039,2022-02-09,2022-02-10,CUST162,Arjun,Consumer,Canada,Oceania,Furniture,Phones,Ink Cartridge,524,5,0.21,-76
+ORD1040,2022-02-10,2022-02-11,CUST568,Priya,Home Office,India,Europe,Furniture,Accessories,Office Desk,1132,9,0.06,348
+ORD1041,2022-02-11,2022-02-12,CUST934,Manoj,Home Office,Canada,Asia,Office Supplies,Phones,Ink Cartridge,560,1,0.2,-31
+ORD1042,2022-02-12,2022-02-13,CUST852,Manoj,Home Office,Canada,Asia,Technology,Accessories,Ink Cartridge,1755,7,0.29,-77
+ORD1043,2022-02-13,2022-02-14,CUST453,Vikram,Home Office,Canada,Oceania,Furniture,Storage,Ink Cartridge,1549,5,0.03,-166
+ORD1044,2022-02-14,2022-02-15,CUST881,Vikram,Home Office,Germany,North America,Technology,Storage,Laptop Stand,749,5,0.2,-114
+ORD1045,2022-02-15,2022-02-16,CUST607,Karan,Consumer,USA,Europe,Office Supplies,Phones,Laptop Stand,1025,2,0.13,445
+ORD1046,2022-02-16,2022-02-17,CUST570,Arjun,Consumer,India,Oceania,Office Supplies,Phones,Wireless Mouse,1856,3,0.26,507
+ORD1047,2022-02-17,2022-02-18,CUST558,Karan,Consumer,France,Asia,Office Supplies,Chairs,Laptop Stand,239,7,0.05,585
+ORD1048,2022-02-18,2022-02-19,CUST831,Anjali,Consumer,Australia,North America,Furniture,Chairs,Laptop Stand,1007,6,0.21,0
+ORD1049,2022-02-19,2022-02-20,CUST737,Karan,Consumer,USA,Asia,Furniture,Chairs,Wireless Mouse,736,2,0.25,168
+ORD1050,2022-02-20,2022-02-21,CUST247,Priya,Corporate,Australia,Europe,Technology,Copiers,Desk Phone,1007,6,0.28,596
+ORD1051,2022-02-21,2022-02-22,CUST604,Anjali,Corporate,France,Oceania,Technology,Phones,Desk Phone,612,2,0.2,-124
+ORD1052,2022-02-22,2022-02-23,CUST427,Arjun,Consumer,Australia,Europe,Furniture,Accessories,Wireless Mouse,1949,2,0.15,-142
+ORD1053,2022-02-23,2022-02-24,CUST501,Karan,Home Office,Australia,North America,Technology,Binders,Desk Phone,1640,2,0.19,230
+ORD1054,2022-02-24,2022-02-25,CUST683,Karan,Home Office,France,Asia,Furniture,Storage,Desk Phone,1317,3,0.26,437
+ORD1055,2022-02-25,2022-02-26,CUST747,Anjali,Corporate,Germany,Oceania,Technology,Phones,Desk Phone,881,2,0.17,299
+ORD1056,2022-02-26,2022-02-27,CUST844,Neha,Consumer,India,Europe,Technology,Storage,Desk Phone,1578,4,0.01,-92
+ORD1057,2022-02-27,2022-02-28,CUST852,Vikram,Home Office,Canada,North America,Technology,Binders,Desk Phone,1204,9,0.28,535
+ORD1058,2022-02-28,2022-03-01,CUST266,Priya,Corporate,France,North America,Furniture,Chairs,Laptop Stand,1558,6,0.21,77
+ORD1059,2022-03-01,2022-03-02,CUST699,Vikram,Consumer,USA,North America,Furniture,Copiers,Laptop Stand,1892,1,0.2,-133
+ORD1060,2022-03-02,2022-03-03,CUST113,Karan,Home Office,Germany,North America,Furniture,Phones,Ink Cartridge,696,8,0.06,-132
+ORD1061,2022-03-03,2022-03-04,CUST464,Vikram,Consumer,Canada,Oceania,Office Supplies,Copiers,Wireless Mouse,70,7,0.2,-36
+ORD1062,2022-03-04,2022-03-05,CUST883,Priya,Home Office,Germany,Europe,Office Supplies,Accessories,Desk Phone,890,3,0.12,288
+ORD1063,2022-03-05,2022-03-06,CUST840,Vikram,Consumer,Canada,Europe,Office Supplies,Copiers,Office Desk,216,1,0.2,104
+ORD1064,2022-03-06,2022-03-07,CUST475,Arjun,Consumer,USA,Europe,Office Supplies,Storage,Office Desk,1347,5,0.03,473
+ORD1065,2022-03-07,2022-03-08,CUST579,Neha,Home Office,Australia,North America,Technology,Copiers,Desk Phone,437,4,0.2,164
+ORD1066,2022-03-08,2022-03-09,CUST579,Ravi,Home Office,France,Europe,Technology,Phones,Ink Cartridge,650,8,0.3,178
+ORD1067,2022-03-09,2022-03-10,CUST652,Anjali,Corporate,Australia,Europe,Furniture,Accessories,Wireless Mouse,365,1,0.01,142
+ORD1068,2022-03-10,2022-03-11,CUST877,Arjun,Corporate,Australia,Europe,Office Supplies,Phones,Office Desk,63,1,0.29,353
+ORD1069,2022-03-11,2022-03-12,CUST180,Karan,Corporate,Canada,Oceania,Furniture,Storage,Office Desk,291,4,0.12,153
+ORD1070,2022-03-12,2022-03-13,CUST685,Vikram,Corporate,India,Europe,Technology,Accessories,Laptop Stand,826,8,0.26,215
+ORD1071,2022-03-13,2022-03-14,CUST162,Vikram,Home Office,India,Asia,Office Supplies,Copiers,Ink Cartridge,1419,5,0.23,-92
+ORD1072,2022-03-14,2022-03-15,CUST211,Manoj,Consumer,France,Asia,Technology,Chairs,Laptop Stand,614,2,0.17,362
+ORD1073,2022-03-15,2022-03-16,CUST371,Arjun,Home Office,India,Europe,Furniture,Storage,Office Desk,947,6,0.22,561
+ORD1074,2022-03-16,2022-03-17,CUST149,Ravi,Home Office,Canada,Europe,Technology,Accessories,Office Desk,1413,5,0.26,296
+ORD1075,2022-03-17,2022-03-18,CUST136,Neha,Home Office,Australia,Europe,Office Supplies,Accessories,Wireless Mouse,141,2,0.12,140
+ORD1076,2022-03-18,2022-03-19,CUST667,Arjun,Corporate,France,Asia,Technology,Copiers,Ergonomic Chair,1440,3,0.1,182
+ORD1077,2022-03-19,2022-03-20,CUST722,Vikram,Consumer,India,North America,Technology,Chairs,Office Desk,1005,9,0.2,332
+ORD1078,2022-03-20,2022-03-21,CUST452,Vikram,Consumer,Canada,Asia,Office Supplies,Chairs,Wireless Mouse,1528,7,0.24,99
+ORD1079,2022-03-21,2022-03-22,CUST844,Priya,Corporate,Canada,North America,Technology,Accessories,Laptop Stand,1501,7,0.23,-62
+ORD1080,2022-03-22,2022-03-23,CUST533,Neha,Consumer,India,North America,Furniture,Binders,Desk Phone,558,6,0.24,158
+ORD1081,2022-03-23,2022-03-24,CUST796,Vikram,Corporate,India,North America,Office Supplies,Binders,Office Desk,825,8,0.13,298
+ORD1082,2022-03-24,2022-03-25,CUST834,Priya,Corporate,Germany,Oceania,Office Supplies,Binders,Ergonomic Chair,84,4,0.25,184
+ORD1083,2022-03-25,2022-03-26,CUST224,Karan,Home Office,India,North America,Office Supplies,Chairs,Desk Phone,255,8,0.04,403
+ORD1084,2022-03-26,2022-03-27,CUST977,Karan,Corporate,Australia,Europe,Technology,Chairs,Ergonomic Chair,1154,4,0.16,79
+ORD1085,2022-03-27,2022-03-28,CUST970,Arjun,Consumer,USA,Oceania,Furniture,Copiers,Ink Cartridge,1635,8,0.0,436
+ORD1086,2022-03-28,2022-03-29,CUST194,Priya,Corporate,Canada,North America,Furniture,Chairs,Laptop Stand,1945,9,0.1,282
+ORD1087,2022-03-29,2022-03-30,CUST802,Vikram,Home Office,USA,Europe,Technology,Accessories,Office Desk,1461,3,0.11,-90
+ORD1088,2022-03-30,2022-03-31,CUST145,Vikram,Corporate,USA,Europe,Office Supplies,Binders,Desk Phone,1075,3,0.12,-62
+ORD1089,2022-03-31,2022-04-01,CUST193,Manoj,Home Office,France,Asia,Technology,Storage,Ergonomic Chair,1071,2,0.21,234
+ORD1090,2022-04-01,2022-04-02,CUST990,Karan,Home Office,Germany,North America,Furniture,Storage,Laptop Stand,1463,3,0.12,308
+ORD1091,2022-04-02,2022-04-03,CUST650,Priya,Consumer,France,North America,Technology,Chairs,Laptop Stand,615,3,0.13,72
+ORD1092,2022-04-03,2022-04-04,CUST455,Neha,Corporate,India,Oceania,Office Supplies,Chairs,Laptop Stand,1179,5,0.07,-102
+ORD1093,2022-04-04,2022-04-05,CUST788,Anjali,Consumer,Canada,Oceania,Technology,Phones,Ink Cartridge,1845,5,0.11,563
+ORD1094,2022-04-05,2022-04-06,CUST395,Manoj,Corporate,France,Oceania,Office Supplies,Binders,Ink Cartridge,1895,2,0.07,-97
+ORD1095,2022-04-06,2022-04-07,CUST964,Manoj,Corporate,Germany,North America,Furniture,Copiers,Ergonomic Chair,1550,6,0.02,13
+ORD1096,2022-04-07,2022-04-08,CUST318,Arjun,Home Office,India,Europe,Technology,Phones,Ergonomic Chair,752,5,0.18,560
+ORD1097,2022-04-08,2022-04-09,CUST921,Vikram,Home Office,Canada,Europe,Technology,Chairs,Office Desk,451,6,0.2,463
+ORD1098,2022-04-09,2022-04-10,CUST318,Manoj,Consumer,Germany,Europe,Furniture,Binders,Wireless Mouse,779,1,0.19,561
+ORD1099,2022-04-10,2022-04-11,CUST621,Neha,Home Office,USA,Oceania,Office Supplies,Phones,Laptop Stand,1629,5,0.14,586
+ORD1100,2022-04-11,2022-04-12,CUST658,Ravi,Consumer,USA,Oceania,Technology,Copiers,Desk Phone,211,9,0.11,-36
+ORD1101,2022-04-12,2022-04-13,CUST104,Manoj,Corporate,France,North America,Office Supplies,Phones,Laptop Stand,251,2,0.26,319
+ORD1102,2022-04-13,2022-04-14,CUST105,Vikram,Corporate,Canada,Asia,Office Supplies,Phones,Wireless Mouse,1045,1,0.16,83
+ORD1103,2022-04-14,2022-04-15,CUST549,Anjali,Home Office,India,Europe,Technology,Storage,Office Desk,319,9,0.14,316
+ORD1104,2022-04-15,2022-04-16,CUST251,Neha,Consumer,France,Asia,Furniture,Phones,Ink Cartridge,1936,9,0.01,456
+ORD1105,2022-04-16,2022-04-17,CUST244,Karan,Consumer,France,North America,Technology,Binders,Laptop Stand,865,9,0.1,412
+ORD1106,2022-04-17,2022-04-18,CUST293,Arjun,Corporate,Germany,North America,Technology,Binders,Ink Cartridge,1344,6,0.11,-37
+ORD1107,2022-04-18,2022-04-19,CUST419,Neha,Consumer,France,North America,Furniture,Binders,Office Desk,505,8,0.12,458
+ORD1108,2022-04-19,2022-04-20,CUST918,Vikram,Corporate,India,Oceania,Technology,Binders,Wireless Mouse,1535,1,0.17,-137
+ORD1109,2022-04-20,2022-04-21,CUST309,Arjun,Corporate,Canada,Asia,Office Supplies,Accessories,Wireless Mouse,1800,4,0.16,-110
+ORD1110,2022-04-21,2022-04-22,CUST486,Neha,Home Office,Germany,North America,Office Supplies,Binders,Ergonomic Chair,1325,1,0.18,-84
+ORD1111,2022-04-22,2022-04-23,CUST561,Arjun,Corporate,France,Oceania,Technology,Copiers,Ink Cartridge,1066,8,0.23,66
+ORD1112,2022-04-23,2022-04-24,CUST359,Karan,Corporate,USA,Asia,Furniture,Chairs,Ergonomic Chair,1775,1,0.24,484
+ORD1113,2022-04-24,2022-04-25,CUST151,Ravi,Home Office,India,North America,Furniture,Phones,Office Desk,345,3,0.22,358
+ORD1114,2022-04-25,2022-04-26,CUST949,Vikram,Home Office,India,Oceania,Furniture,Chairs,Ergonomic Chair,1798,4,0.29,-61
+ORD1115,2022-04-26,2022-04-27,CUST137,Vikram,Corporate,Germany,Oceania,Furniture,Chairs,Office Desk,769,8,0.01,45
+ORD1116,2022-04-27,2022-04-28,CUST573,Karan,Consumer,India,North America,Technology,Phones,Ink Cartridge,1822,6,0.06,460
+ORD1117,2022-04-28,2022-04-29,CUST347,Ravi,Corporate,Germany,Oceania,Office Supplies,Accessories,Laptop Stand,387,7,0.0,557
+ORD1118,2022-04-29,2022-04-30,CUST990,Manoj,Consumer,France,Oceania,Technology,Binders,Office Desk,928,8,0.19,194
+ORD1119,2022-04-30,2022-05-01,CUST223,Ravi,Home Office,Canada,Asia,Technology,Storage,Office Desk,1126,2,0.27,286
+ORD1120,2022-05-01,2022-05-02,CUST572,Arjun,Consumer,India,Europe,Furniture,Accessories,Desk Phone,841,8,0.07,275
+ORD1121,2022-05-02,2022-05-03,CUST674,Neha,Corporate,France,Europe,Office Supplies,Chairs,Laptop Stand,1995,3,0.28,316
+ORD1122,2022-05-03,2022-05-04,CUST521,Ravi,Home Office,India,Asia,Technology,Chairs,Office Desk,266,7,0.02,-17
+ORD1123,2022-05-04,2022-05-05,CUST746,Ravi,Consumer,India,Europe,Furniture,Accessories,Desk Phone,813,3,0.28,-181
+ORD1124,2022-05-05,2022-05-06,CUST461,Neha,Consumer,France,Asia,Office Supplies,Storage,Ergonomic Chair,237,7,0.11,357
+ORD1125,2022-05-06,2022-05-07,CUST378,Vikram,Consumer,USA,Asia,Office Supplies,Storage,Wireless Mouse,429,2,0.03,323
+ORD1126,2022-05-07,2022-05-08,CUST668,Neha,Consumer,India,North America,Office Supplies,Storage,Ergonomic Chair,542,6,0.15,381
+ORD1127,2022-05-08,2022-05-09,CUST467,Priya,Home Office,Germany,Asia,Furniture,Copiers,Ergonomic Chair,1114,3,0.08,328
+ORD1128,2022-05-09,2022-05-10,CUST451,Vikram,Consumer,Australia,Asia,Technology,Storage,Laptop Stand,1230,3,0.09,-54
+ORD1129,2022-05-10,2022-05-11,CUST337,Vikram,Home Office,Canada,North America,Furniture,Phones,Laptop Stand,64,9,0.09,465
+ORD1130,2022-05-11,2022-05-12,CUST260,Karan,Corporate,Canada,North America,Office Supplies,Binders,Desk Phone,1886,7,0.24,103
+ORD1131,2022-05-12,2022-05-13,CUST795,Arjun,Consumer,Germany,Oceania,Furniture,Phones,Ink Cartridge,114,5,0.16,419
+ORD1132,2022-05-13,2022-05-14,CUST265,Priya,Home Office,Canada,Oceania,Office Supplies,Chairs,Wireless Mouse,1930,7,0.09,547
+ORD1133,2022-05-14,2022-05-15,CUST528,Karan,Corporate,Canada,North America,Technology,Copiers,Desk Phone,1912,9,0.18,381
+ORD1134,2022-05-15,2022-05-16,CUST540,Karan,Home Office,France,Oceania,Technology,Storage,Wireless Mouse,570,1,0.21,494
+ORD1135,2022-05-16,2022-05-17,CUST296,Karan,Corporate,Canada,Europe,Office Supplies,Chairs,Desk Phone,1417,7,0.08,561
+ORD1136,2022-05-17,2022-05-18,CUST364,Vikram,Consumer,Australia,Asia,Technology,Accessories,Desk Phone,1202,6,0.12,27
+ORD1137,2022-05-18,2022-05-19,CUST685,Vikram,Consumer,USA,Europe,Furniture,Phones,Desk Phone,697,9,0.04,-99
+ORD1138,2022-05-19,2022-05-20,CUST229,Arjun,Consumer,Canada,Europe,Furniture,Storage,Office Desk,1545,1,0.05,386
+ORD1139,2022-05-20,2022-05-21,CUST628,Manoj,Consumer,Australia,North America,Furniture,Chairs,Office Desk,1136,4,0.2,216
+ORD1140,2022-05-21,2022-05-22,CUST331,Ravi,Consumer,France,North America,Furniture,Binders,Wireless Mouse,1212,9,0.05,15
+ORD1141,2022-05-22,2022-05-23,CUST253,Priya,Consumer,USA,North America,Technology,Phones,Desk Phone,1572,4,0.16,206
+ORD1142,2022-05-23,2022-05-24,CUST494,Manoj,Consumer,India,Oceania,Office Supplies,Binders,Ink Cartridge,642,3,0.21,198
+ORD1143,2022-05-24,2022-05-25,CUST499,Anjali,Corporate,India,Europe,Office Supplies,Phones,Ergonomic Chair,441,9,0.03,514
+ORD1144,2022-05-25,2022-05-26,CUST795,Ravi,Corporate,USA,Europe,Technology,Storage,Office Desk,1748,2,0.17,503
+ORD1145,2022-05-26,2022-05-27,CUST267,Anjali,Corporate,Canada,North America,Furniture,Binders,Ergonomic Chair,468,4,0.08,560
+ORD1146,2022-05-27,2022-05-28,CUST925,Arjun,Home Office,Australia,Oceania,Technology,Chairs,Ink Cartridge,338,6,0.29,298
+ORD1147,2022-05-28,2022-05-29,CUST187,Ravi,Corporate,Australia,Asia,Office Supplies,Binders,Laptop Stand,428,2,0.15,553
+ORD1148,2022-05-29,2022-05-30,CUST190,Neha,Consumer,USA,North America,Furniture,Phones,Office Desk,1846,8,0.24,264
+ORD1149,2022-05-30,2022-05-31,CUST533,Priya,Consumer,India,Europe,Office Supplies,Storage,Ergonomic Chair,1563,8,0.17,490
+ORD1150,2022-05-31,2022-06-01,CUST318,Anjali,Consumer,USA,Europe,Office Supplies,Phones,Ergonomic Chair,280,1,0.01,530
+ORD1151,2022-06-01,2022-06-02,CUST280,Arjun,Consumer,Australia,Europe,Technology,Binders,Wireless Mouse,1067,3,0.19,-119
+ORD1152,2022-06-02,2022-06-03,CUST736,Anjali,Home Office,USA,Asia,Office Supplies,Binders,Wireless Mouse,90,9,0.29,403
+ORD1153,2022-06-03,2022-06-04,CUST719,Karan,Home Office,France,Asia,Office Supplies,Chairs,Office Desk,1101,5,0.18,486
+ORD1154,2022-06-04,2022-06-05,CUST260,Ravi,Home Office,USA,Oceania,Technology,Storage,Desk Phone,184,6,0.25,550
+ORD1155,2022-06-05,2022-06-06,CUST139,Manoj,Consumer,France,Oceania,Furniture,Phones,Desk Phone,250,4,0.27,571
+ORD1156,2022-06-06,2022-06-07,CUST761,Priya,Consumer,India,North America,Technology,Accessories,Ergonomic Chair,1913,2,0.07,164
+ORD1157,2022-06-07,2022-06-08,CUST219,Priya,Corporate,Germany,Europe,Technology,Accessories,Laptop Stand,829,8,0.06,-38
+ORD1158,2022-06-08,2022-06-09,CUST757,Priya,Corporate,France,North America,Technology,Phones,Desk Phone,979,6,0.18,-153
+ORD1159,2022-06-09,2022-06-10,CUST684,Manoj,Consumer,Germany,Asia,Furniture,Chairs,Laptop Stand,1106,5,0.12,310
+ORD1160,2022-06-10,2022-06-11,CUST500,Karan,Home Office,Canada,Europe,Technology,Storage,Desk Phone,1121,9,0.25,128
+ORD1161,2022-06-11,2022-06-12,CUST153,Manoj,Home Office,India,Asia,Furniture,Binders,Laptop Stand,552,1,0.27,-85
+ORD1162,2022-06-12,2022-06-13,CUST354,Karan,Consumer,India,Europe,Furniture,Binders,Desk Phone,456,5,0.11,136
+ORD1163,2022-06-13,2022-06-14,CUST216,Karan,Home Office,USA,North America,Furniture,Copiers,Ink Cartridge,1647,6,0.07,536
+ORD1164,2022-06-14,2022-06-15,CUST614,Priya,Consumer,Canada,Asia,Office Supplies,Chairs,Office Desk,1801,5,0.23,-54
+ORD1165,2022-06-15,2022-06-16,CUST402,Ravi,Corporate,USA,Asia,Furniture,Accessories,Wireless Mouse,854,6,0.08,374
+ORD1166,2022-06-16,2022-06-17,CUST792,Manoj,Corporate,USA,North America,Office Supplies,Chairs,Ink Cartridge,148,6,0.25,122
+ORD1167,2022-06-17,2022-06-18,CUST710,Karan,Corporate,USA,North America,Office Supplies,Accessories,Wireless Mouse,733,7,0.13,242
+ORD1168,2022-06-18,2022-06-19,CUST492,Vikram,Consumer,Germany,Europe,Furniture,Chairs,Laptop Stand,1945,4,0.2,-188
+ORD1169,2022-06-19,2022-06-20,CUST975,Manoj,Consumer,India,Asia,Furniture,Accessories,Laptop Stand,775,8,0.03,293
+ORD1170,2022-06-20,2022-06-21,CUST582,Priya,Consumer,USA,Asia,Technology,Accessories,Ergonomic Chair,1620,7,0.19,500
+ORD1171,2022-06-21,2022-06-22,CUST586,Arjun,Home Office,France,Europe,Furniture,Storage,Wireless Mouse,1010,9,0.14,86
+ORD1172,2022-06-22,2022-06-23,CUST286,Vikram,Consumer,Canada,Europe,Furniture,Phones,Office Desk,1812,7,0.18,519
+ORD1173,2022-06-23,2022-06-24,CUST132,Neha,Home Office,Canada,Oceania,Furniture,Phones,Ergonomic Chair,662,3,0.05,-87
+ORD1174,2022-06-24,2022-06-25,CUST754,Neha,Consumer,Australia,North America,Office Supplies,Storage,Wireless Mouse,1535,3,0.22,279
+ORD1175,2022-06-25,2022-06-26,CUST347,Manoj,Consumer,Canada,North America,Technology,Chairs,Laptop Stand,692,8,0.26,-179
+ORD1176,2022-06-26,2022-06-27,CUST668,Ravi,Home Office,Canada,North America,Office Supplies,Phones,Laptop Stand,1842,5,0.07,148
+ORD1177,2022-06-27,2022-06-28,CUST185,Ravi,Corporate,India,Asia,Technology,Copiers,Laptop Stand,1078,4,0.03,525
+ORD1178,2022-06-28,2022-06-29,CUST691,Neha,Consumer,France,North America,Office Supplies,Chairs,Ergonomic Chair,1291,8,0.01,482
+ORD1179,2022-06-29,2022-06-30,CUST507,Karan,Consumer,France,Asia,Office Supplies,Phones,Wireless Mouse,552,6,0.19,365
+ORD1180,2022-06-30,2022-07-01,CUST912,Priya,Corporate,India,Europe,Technology,Phones,Office Desk,816,2,0.18,119
+ORD1181,2022-07-01,2022-07-02,CUST225,Karan,Consumer,Germany,Oceania,Technology,Chairs,Desk Phone,447,4,0.16,-75
+ORD1182,2022-07-02,2022-07-03,CUST921,Priya,Corporate,Australia,Europe,Office Supplies,Storage,Ink Cartridge,920,4,0.07,76
+ORD1183,2022-07-03,2022-07-04,CUST301,Neha,Home Office,Germany,Asia,Technology,Storage,Laptop Stand,844,6,0.12,3
+ORD1184,2022-07-04,2022-07-05,CUST572,Manoj,Corporate,USA,Asia,Technology,Binders,Laptop Stand,442,6,0.18,-7
+ORD1185,2022-07-05,2022-07-06,CUST559,Ravi,Consumer,Canada,Europe,Technology,Chairs,Ink Cartridge,256,1,0.15,480
+ORD1186,2022-07-06,2022-07-07,CUST379,Karan,Corporate,USA,Asia,Office Supplies,Copiers,Laptop Stand,1088,8,0.3,463
+ORD1187,2022-07-07,2022-07-08,CUST836,Ravi,Consumer,Australia,Europe,Furniture,Accessories,Wireless Mouse,1931,6,0.04,346
+ORD1188,2022-07-08,2022-07-09,CUST848,Karan,Consumer,India,Asia,Furniture,Copiers,Ergonomic Chair,1627,3,0.21,495
+ORD1189,2022-07-09,2022-07-10,CUST730,Arjun,Home Office,USA,North America,Technology,Accessories,Ergonomic Chair,941,9,0.12,85
+ORD1190,2022-07-10,2022-07-11,CUST598,Karan,Corporate,Germany,Oceania,Office Supplies,Chairs,Wireless Mouse,1534,2,0.13,-144
+ORD1191,2022-07-11,2022-07-12,CUST964,Priya,Consumer,India,North America,Office Supplies,Accessories,Laptop Stand,1764,8,0.22,533
+ORD1192,2022-07-12,2022-07-13,CUST915,Priya,Consumer,USA,Oceania,Furniture,Copiers,Laptop Stand,1648,3,0.21,102
+ORD1193,2022-07-13,2022-07-14,CUST266,Vikram,Corporate,Australia,North America,Furniture,Accessories,Ergonomic Chair,913,5,0.3,-38
+ORD1194,2022-07-14,2022-07-15,CUST379,Neha,Consumer,Australia,Europe,Furniture,Chairs,Ink Cartridge,792,6,0.04,-182
+ORD1195,2022-07-15,2022-07-16,CUST214,Priya,Home Office,France,Oceania,Furniture,Storage,Laptop Stand,1314,6,0.03,169
+ORD1196,2022-07-16,2022-07-17,CUST565,Vikram,Corporate,France,Asia,Technology,Accessories,Laptop Stand,613,4,0.22,63
+ORD1197,2022-07-17,2022-07-18,CUST716,Anjali,Consumer,USA,Europe,Technology,Accessories,Laptop Stand,1070,3,0.17,593
+ORD1198,2022-07-18,2022-07-19,CUST497,Priya,Corporate,Canada,Asia,Technology,Phones,Office Desk,145,4,0.08,-88
+ORD1199,2022-07-19,2022-07-20,CUST567,Ravi,Corporate,Canada,North America,Technology,Storage,Office Desk,1973,1,0.02,287
+ORD1200,2022-07-20,2022-07-21,CUST608,Vikram,Home Office,India,Europe,Technology,Copiers,Ergonomic Chair,1807,4,0.03,126
+ORD1201,2022-07-21,2022-07-22,CUST109,Arjun,Consumer,Germany,Europe,Furniture,Binders,Ink Cartridge,534,1,0.27,341
+ORD1202,2022-07-22,2022-07-23,CUST507,Karan,Corporate,USA,Oceania,Office Supplies,Binders,Desk Phone,1480,1,0.06,446
+ORD1203,2022-07-23,2022-07-24,CUST471,Anjali,Home Office,Germany,North America,Furniture,Chairs,Desk Phone,280,6,0.1,378
+ORD1204,2022-07-24,2022-07-25,CUST627,Anjali,Consumer,Germany,Asia,Technology,Accessories,Laptop Stand,798,5,0.07,-136
+ORD1205,2022-07-25,2022-07-26,CUST512,Priya,Home Office,USA,North America,Technology,Phones,Ink Cartridge,1728,4,0.11,91
+ORD1206,2022-07-26,2022-07-27,CUST892,Manoj,Consumer,India,Europe,Office Supplies,Binders,Laptop Stand,1244,3,0.02,-176
+ORD1207,2022-07-27,2022-07-28,CUST683,Manoj,Consumer,France,Europe,Technology,Copiers,Desk Phone,590,1,0.16,348
+ORD1208,2022-07-28,2022-07-29,CUST178,Karan,Corporate,Canada,Europe,Office Supplies,Accessories,Ink Cartridge,1109,6,0.02,-200
+ORD1209,2022-07-29,2022-07-30,CUST981,Karan,Home Office,Australia,North America,Office Supplies,Binders,Wireless Mouse,574,2,0.24,348
+ORD1210,2022-07-30,2022-07-31,CUST170,Arjun,Corporate,India,Oceania,Technology,Accessories,Laptop Stand,1233,8,0.07,-60
+ORD1211,2022-07-31,2022-08-01,CUST529,Manoj,Home Office,USA,North America,Technology,Phones,Laptop Stand,1912,5,0.16,543
+ORD1212,2022-08-01,2022-08-02,CUST789,Karan,Consumer,India,North America,Office Supplies,Binders,Wireless Mouse,1772,7,0.26,447
+ORD1213,2022-08-02,2022-08-03,CUST531,Vikram,Home Office,USA,Oceania,Technology,Accessories,Ergonomic Chair,1316,2,0.2,-13
+ORD1214,2022-08-03,2022-08-04,CUST334,Karan,Consumer,USA,Europe,Technology,Binders,Office Desk,1159,8,0.16,-73
+ORD1215,2022-08-04,2022-08-05,CUST754,Neha,Consumer,France,Oceania,Furniture,Phones,Laptop Stand,1869,2,0.1,0
+ORD1216,2022-08-05,2022-08-06,CUST777,Neha,Corporate,France,Oceania,Office Supplies,Accessories,Laptop Stand,627,4,0.1,-74
+ORD1217,2022-08-06,2022-08-07,CUST140,Karan,Consumer,Germany,North America,Technology,Chairs,Office Desk,731,1,0.2,56
+ORD1218,2022-08-07,2022-08-08,CUST278,Vikram,Consumer,Germany,Europe,Office Supplies,Binders,Ink Cartridge,606,5,0.3,475
+ORD1219,2022-08-08,2022-08-09,CUST528,Priya,Home Office,France,Asia,Office Supplies,Accessories,Wireless Mouse,1647,9,0.2,346
+ORD1220,2022-08-09,2022-08-10,CUST932,Manoj,Corporate,Canada,Asia,Office Supplies,Chairs,Ergonomic Chair,1062,1,0.17,-7
+ORD1221,2022-08-10,2022-08-11,CUST470,Arjun,Corporate,France,Asia,Furniture,Chairs,Ink Cartridge,695,9,0.22,502
+ORD1222,2022-08-11,2022-08-12,CUST567,Ravi,Consumer,Germany,North America,Technology,Binders,Wireless Mouse,845,8,0.14,-97
+ORD1223,2022-08-12,2022-08-13,CUST726,Anjali,Consumer,Australia,Asia,Office Supplies,Copiers,Ink Cartridge,1101,6,0.02,334
+ORD1224,2022-08-13,2022-08-14,CUST840,Anjali,Home Office,Canada,Oceania,Office Supplies,Chairs,Laptop Stand,1693,7,0.17,64
+ORD1225,2022-08-14,2022-08-15,CUST855,Neha,Corporate,India,North America,Technology,Copiers,Ink Cartridge,1629,3,0.29,183
+ORD1226,2022-08-15,2022-08-16,CUST206,Anjali,Consumer,France,Europe,Technology,Chairs,Ergonomic Chair,1413,1,0.05,59
+ORD1227,2022-08-16,2022-08-17,CUST397,Karan,Consumer,Canada,Oceania,Office Supplies,Phones,Office Desk,1871,5,0.21,213
+ORD1228,2022-08-17,2022-08-18,CUST969,Vikram,Consumer,Germany,Asia,Office Supplies,Binders,Desk Phone,1404,2,0.06,157
+ORD1229,2022-08-18,2022-08-19,CUST973,Anjali,Corporate,Canada,Asia,Technology,Storage,Office Desk,1713,5,0.16,-126
+ORD1230,2022-08-19,2022-08-20,CUST284,Ravi,Corporate,Australia,Asia,Office Supplies,Chairs,Ergonomic Chair,1579,8,0.03,154
+ORD1231,2022-08-20,2022-08-21,CUST890,Priya,Home Office,Australia,North America,Office Supplies,Storage,Desk Phone,1421,9,0.14,383
+ORD1232,2022-08-21,2022-08-22,CUST625,Vikram,Corporate,Germany,Oceania,Office Supplies,Accessories,Laptop Stand,1546,2,0.23,570
+ORD1233,2022-08-22,2022-08-23,CUST242,Vikram,Home Office,Australia,Oceania,Furniture,Copiers,Wireless Mouse,1304,3,0.1,-13
+ORD1234,2022-08-23,2022-08-24,CUST424,Vikram,Corporate,Canada,Oceania,Furniture,Copiers,Desk Phone,239,3,0.2,484
+ORD1235,2022-08-24,2022-08-25,CUST673,Vikram,Home Office,Australia,Asia,Office Supplies,Accessories,Desk Phone,1298,1,0.24,89
+ORD1236,2022-08-25,2022-08-26,CUST337,Arjun,Corporate,Germany,Europe,Technology,Copiers,Laptop Stand,1458,8,0.28,-156
+ORD1237,2022-08-26,2022-08-27,CUST799,Neha,Home Office,India,North America,Furniture,Accessories,Office Desk,1450,6,0.07,372
+ORD1238,2022-08-27,2022-08-28,CUST588,Anjali,Home Office,India,Asia,Furniture,Binders,Ergonomic Chair,1356,8,0.12,-118
+ORD1239,2022-08-28,2022-08-29,CUST324,Anjali,Consumer,Germany,Europe,Office Supplies,Accessories,Office Desk,682,9,0.05,-78
+ORD1240,2022-08-29,2022-08-30,CUST842,Arjun,Home Office,Canada,Asia,Office Supplies,Copiers,Ergonomic Chair,677,5,0.3,157
+ORD1241,2022-08-30,2022-08-31,CUST801,Ravi,Corporate,France,Oceania,Office Supplies,Accessories,Ergonomic Chair,1022,3,0.28,327
+ORD1242,2022-08-31,2022-09-01,CUST887,Anjali,Corporate,Germany,North America,Technology,Accessories,Wireless Mouse,1818,5,0.16,-135
+ORD1243,2022-09-01,2022-09-02,CUST257,Karan,Home Office,India,Europe,Furniture,Copiers,Laptop Stand,1332,5,0.25,456
+ORD1244,2022-09-02,2022-09-03,CUST674,Karan,Home Office,France,Oceania,Furniture,Accessories,Ergonomic Chair,1432,5,0.16,174
+ORD1245,2022-09-03,2022-09-04,CUST995,Vikram,Corporate,Australia,North America,Office Supplies,Storage,Office Desk,759,3,0.19,-39
+ORD1246,2022-09-04,2022-09-05,CUST199,Anjali,Corporate,USA,Asia,Technology,Storage,Wireless Mouse,1529,4,0.03,545
+ORD1247,2022-09-05,2022-09-06,CUST395,Neha,Home Office,Canada,North America,Office Supplies,Accessories,Wireless Mouse,1484,9,0.23,179
+ORD1248,2022-09-06,2022-09-07,CUST309,Priya,Home Office,India,North America,Furniture,Phones,Wireless Mouse,698,9,0.04,455
+ORD1249,2022-09-07,2022-09-08,CUST466,Ravi,Corporate,Canada,Asia,Office Supplies,Binders,Ink Cartridge,367,2,0.25,157
+ORD1250,2022-09-08,2022-09-09,CUST985,Neha,Consumer,Germany,Asia,Technology,Chairs,Laptop Stand,1750,8,0.23,-13
+ORD1251,2022-09-09,2022-09-10,CUST628,Karan,Home Office,Australia,North America,Technology,Binders,Ink Cartridge,1298,8,0.21,121
+ORD1252,2022-09-10,2022-09-11,CUST652,Ravi,Consumer,Germany,North America,Technology,Phones,Wireless Mouse,1892,7,0.01,249
+ORD1253,2022-09-11,2022-09-12,CUST611,Arjun,Corporate,USA,Asia,Office Supplies,Copiers,Ink Cartridge,1307,8,0.09,273
+ORD1254,2022-09-12,2022-09-13,CUST296,Vikram,Consumer,India,Europe,Technology,Storage,Ink Cartridge,733,3,0.08,-188
+ORD1255,2022-09-13,2022-09-14,CUST464,Karan,Home Office,France,Oceania,Technology,Chairs,Laptop Stand,713,6,0.11,-17
+ORD1256,2022-09-14,2022-09-15,CUST138,Arjun,Corporate,Australia,North America,Technology,Accessories,Ergonomic Chair,1900,1,0.03,-90
+ORD1257,2022-09-15,2022-09-16,CUST485,Vikram,Home Office,USA,Asia,Technology,Chairs,Desk Phone,1447,7,0.28,307
+ORD1258,2022-09-16,2022-09-17,CUST145,Vikram,Corporate,France,North America,Furniture,Copiers,Laptop Stand,1745,1,0.17,89
+ORD1259,2022-09-17,2022-09-18,CUST817,Vikram,Home Office,Australia,North America,Furniture,Storage,Office Desk,1681,9,0.09,94
+ORD1260,2022-09-18,2022-09-19,CUST854,Priya,Consumer,USA,Oceania,Technology,Copiers,Laptop Stand,1545,1,0.12,250
+ORD1261,2022-09-19,2022-09-20,CUST186,Arjun,Consumer,France,North America,Furniture,Accessories,Office Desk,1306,1,0.13,14
+ORD1262,2022-09-20,2022-09-21,CUST263,Anjali,Home Office,USA,Europe,Furniture,Copiers,Desk Phone,1765,7,0.18,431
+ORD1263,2022-09-21,2022-09-22,CUST294,Karan,Corporate,France,Europe,Technology,Binders,Desk Phone,1186,2,0.15,366
+ORD1264,2022-09-22,2022-09-23,CUST965,Priya,Consumer,France,North America,Technology,Phones,Wireless Mouse,1903,5,0.28,-174
+ORD1265,2022-09-23,2022-09-24,CUST477,Ravi,Consumer,France,Europe,Office Supplies,Copiers,Wireless Mouse,1570,8,0.15,429
+ORD1266,2022-09-24,2022-09-25,CUST739,Anjali,Home Office,Canada,Asia,Furniture,Storage,Wireless Mouse,491,8,0.3,532
+ORD1267,2022-09-25,2022-09-26,CUST138,Ravi,Corporate,Australia,North America,Office Supplies,Chairs,Desk Phone,613,3,0.26,30
+ORD1268,2022-09-26,2022-09-27,CUST502,Karan,Corporate,Canada,Europe,Furniture,Binders,Laptop Stand,1341,7,0.06,364
+ORD1269,2022-09-27,2022-09-28,CUST603,Karan,Corporate,Germany,Asia,Technology,Chairs,Desk Phone,1583,3,0.28,120
+ORD1270,2022-09-28,2022-09-29,CUST230,Priya,Corporate,India,Oceania,Office Supplies,Phones,Ink Cartridge,1880,6,0.03,32
+ORD1271,2022-09-29,2022-09-30,CUST438,Ravi,Consumer,India,Oceania,Office Supplies,Binders,Laptop Stand,1459,6,0.25,469
+ORD1272,2022-09-30,2022-10-01,CUST291,Neha,Home Office,USA,Oceania,Technology,Binders,Ink Cartridge,1460,3,0.11,236
+ORD1273,2022-10-01,2022-10-02,CUST486,Manoj,Home Office,France,Oceania,Office Supplies,Storage,Wireless Mouse,1186,7,0.26,580
+ORD1274,2022-10-02,2022-10-03,CUST806,Anjali,Home Office,India,North America,Furniture,Binders,Desk Phone,1686,3,0.26,332
+ORD1275,2022-10-03,2022-10-04,CUST848,Vikram,Corporate,France,North America,Office Supplies,Copiers,Office Desk,1698,8,0.24,202
+ORD1276,2022-10-04,2022-10-05,CUST169,Anjali,Consumer,India,Oceania,Office Supplies,Copiers,Ink Cartridge,1001,4,0.24,-148
+ORD1277,2022-10-05,2022-10-06,CUST788,Neha,Consumer,USA,Europe,Office Supplies,Binders,Desk Phone,1154,1,0.09,586
+ORD1278,2022-10-06,2022-10-07,CUST964,Anjali,Home Office,Australia,Europe,Furniture,Binders,Ergonomic Chair,748,4,0.02,112
+ORD1279,2022-10-07,2022-10-08,CUST699,Ravi,Consumer,Canada,North America,Office Supplies,Phones,Laptop Stand,162,7,0.12,80
+ORD1280,2022-10-08,2022-10-09,CUST158,Anjali,Consumer,Australia,Europe,Technology,Binders,Ink Cartridge,51,4,0.05,525
+ORD1281,2022-10-09,2022-10-10,CUST601,Ravi,Home Office,Australia,Asia,Furniture,Chairs,Ink Cartridge,691,6,0.21,-170
+ORD1282,2022-10-10,2022-10-11,CUST119,Priya,Consumer,India,Asia,Technology,Phones,Wireless Mouse,269,9,0.1,136
+ORD1283,2022-10-11,2022-10-12,CUST157,Priya,Home Office,Australia,Asia,Office Supplies,Accessories,Office Desk,1639,1,0.29,-18
+ORD1284,2022-10-12,2022-10-13,CUST330,Priya,Consumer,Canada,Europe,Furniture,Storage,Ergonomic Chair,904,5,0.19,-178
+ORD1285,2022-10-13,2022-10-14,CUST577,Karan,Corporate,Canada,Asia,Office Supplies,Phones,Ergonomic Chair,1809,7,0.25,343
+ORD1286,2022-10-14,2022-10-15,CUST879,Manoj,Corporate,USA,Oceania,Technology,Accessories,Ergonomic Chair,1298,1,0.04,245
+ORD1287,2022-10-15,2022-10-16,CUST201,Arjun,Consumer,Canada,Europe,Office Supplies,Accessories,Laptop Stand,434,4,0.26,-127
+ORD1288,2022-10-16,2022-10-17,CUST509,Arjun,Home Office,Canada,Europe,Furniture,Chairs,Ink Cartridge,1476,6,0.28,-191
+ORD1289,2022-10-17,2022-10-18,CUST575,Ravi,Corporate,India,Asia,Technology,Binders,Ink Cartridge,1711,2,0.15,283
+ORD1290,2022-10-18,2022-10-19,CUST894,Ravi,Consumer,Australia,Europe,Office Supplies,Phones,Wireless Mouse,1203,5,0.18,255
+ORD1291,2022-10-19,2022-10-20,CUST705,Arjun,Home Office,USA,North America,Office Supplies,Storage,Office Desk,1126,1,0.23,365
+ORD1292,2022-10-20,2022-10-21,CUST495,Karan,Home Office,India,Oceania,Technology,Binders,Ink Cartridge,1757,6,0.05,363
+ORD1293,2022-10-21,2022-10-22,CUST923,Arjun,Corporate,Germany,Europe,Office Supplies,Chairs,Wireless Mouse,779,6,0.15,459
+ORD1294,2022-10-22,2022-10-23,CUST957,Vikram,Home Office,India,Asia,Technology,Copiers,Desk Phone,1745,4,0.12,-41
+ORD1295,2022-10-23,2022-10-24,CUST916,Priya,Home Office,France,North America,Office Supplies,Phones,Desk Phone,1783,8,0.04,-187
+ORD1296,2022-10-24,2022-10-25,CUST751,Priya,Home Office,USA,Oceania,Furniture,Binders,Desk Phone,1489,4,0.11,-23
+ORD1297,2022-10-25,2022-10-26,CUST836,Ravi,Corporate,Australia,Asia,Technology,Binders,Ink Cartridge,296,8,0.02,211
+ORD1298,2022-10-26,2022-10-27,CUST180,Manoj,Home Office,France,Europe,Furniture,Chairs,Laptop Stand,885,8,0.01,-148
+ORD1299,2022-10-27,2022-10-28,CUST165,Neha,Consumer,USA,North America,Technology,Storage,Ink Cartridge,1512,5,0.04,207
+ORD1300,2022-10-28,2022-10-29,CUST752,Anjali,Corporate,India,Asia,Office Supplies,Binders,Laptop Stand,252,4,0.29,-179
+ORD1301,2022-10-29,2022-10-30,CUST512,Anjali,Corporate,India,Asia,Office Supplies,Accessories,Ink Cartridge,1257,2,0.16,-171
+ORD1302,2022-10-30,2022-10-31,CUST789,Priya,Corporate,Germany,Europe,Furniture,Chairs,Ergonomic Chair,172,3,0.29,502
+ORD1303,2022-10-31,2022-11-01,CUST736,Neha,Consumer,France,Asia,Furniture,Binders,Wireless Mouse,450,3,0.13,59
+ORD1304,2022-11-01,2022-11-02,CUST979,Ravi,Consumer,France,North America,Office Supplies,Copiers,Wireless Mouse,816,4,0.09,4
+ORD1305,2022-11-02,2022-11-03,CUST807,Anjali,Home Office,Australia,Oceania,Office Supplies,Accessories,Ink Cartridge,343,4,0.15,-142
+ORD1306,2022-11-03,2022-11-04,CUST189,Karan,Home Office,Australia,Oceania,Office Supplies,Chairs,Laptop Stand,329,5,0.13,270
+ORD1307,2022-11-04,2022-11-05,CUST314,Arjun,Consumer,Australia,Europe,Technology,Storage,Desk Phone,1910,4,0.03,575
+ORD1308,2022-11-05,2022-11-06,CUST310,Karan,Home Office,India,Asia,Technology,Phones,Ergonomic Chair,933,8,0.19,265
+ORD1309,2022-11-06,2022-11-07,CUST816,Vikram,Corporate,Germany,Asia,Technology,Storage,Ergonomic Chair,1683,6,0.06,-189
+ORD1310,2022-11-07,2022-11-08,CUST894,Priya,Consumer,France,Europe,Furniture,Binders,Laptop Stand,247,6,0.19,430
+ORD1311,2022-11-08,2022-11-09,CUST638,Manoj,Consumer,Australia,North America,Office Supplies,Storage,Wireless Mouse,1031,8,0.2,89
+ORD1312,2022-11-09,2022-11-10,CUST597,Neha,Corporate,France,Asia,Technology,Copiers,Ergonomic Chair,1980,7,0.05,559
+ORD1313,2022-11-10,2022-11-11,CUST212,Karan,Home Office,Canada,Asia,Furniture,Binders,Ink Cartridge,1584,8,0.02,153
+ORD1314,2022-11-11,2022-11-12,CUST454,Karan,Consumer,India,Europe,Technology,Binders,Ink Cartridge,801,2,0.23,438
+ORD1315,2022-11-12,2022-11-13,CUST744,Priya,Home Office,USA,Oceania,Technology,Phones,Desk Phone,193,9,0.14,-126
+ORD1316,2022-11-13,2022-11-14,CUST919,Karan,Home Office,Australia,Europe,Office Supplies,Storage,Office Desk,658,1,0.02,515
+ORD1317,2022-11-14,2022-11-15,CUST170,Manoj,Consumer,Canada,Europe,Technology,Chairs,Desk Phone,1274,8,0.3,360
+ORD1318,2022-11-15,2022-11-16,CUST491,Manoj,Consumer,Germany,North America,Office Supplies,Storage,Laptop Stand,1197,4,0.02,390
+ORD1319,2022-11-16,2022-11-17,CUST585,Ravi,Corporate,Canada,Asia,Furniture,Storage,Laptop Stand,236,4,0.21,240
+ORD1320,2022-11-17,2022-11-18,CUST913,Manoj,Consumer,India,Asia,Furniture,Copiers,Ink Cartridge,1399,5,0.3,40
+ORD1321,2022-11-18,2022-11-19,CUST825,Neha,Corporate,USA,Europe,Technology,Binders,Ergonomic Chair,513,8,0.07,-47
+ORD1322,2022-11-19,2022-11-20,CUST146,Neha,Corporate,Germany,North America,Office Supplies,Binders,Desk Phone,1422,5,0.04,585
+ORD1323,2022-11-20,2022-11-21,CUST285,Arjun,Consumer,Germany,Europe,Technology,Accessories,Wireless Mouse,1844,8,0.04,-105
+ORD1324,2022-11-21,2022-11-22,CUST615,Neha,Home Office,Germany,Oceania,Office Supplies,Storage,Office Desk,709,1,0.09,525
+ORD1325,2022-11-22,2022-11-23,CUST944,Karan,Corporate,India,Asia,Office Supplies,Copiers,Desk Phone,813,9,0.03,93
+ORD1326,2022-11-23,2022-11-24,CUST781,Anjali,Corporate,Canada,North America,Furniture,Copiers,Ink Cartridge,1004,6,0.21,8
+ORD1327,2022-11-24,2022-11-25,CUST537,Ravi,Consumer,France,Europe,Office Supplies,Phones,Office Desk,452,3,0.02,142
+ORD1328,2022-11-25,2022-11-26,CUST341,Karan,Consumer,India,Europe,Furniture,Chairs,Wireless Mouse,1419,8,0.15,-113
+ORD1329,2022-11-26,2022-11-27,CUST798,Arjun,Consumer,Germany,Asia,Office Supplies,Storage,Office Desk,1584,9,0.3,575
+ORD1330,2022-11-27,2022-11-28,CUST355,Karan,Corporate,USA,North America,Office Supplies,Storage,Ergonomic Chair,196,6,0.24,189
+ORD1331,2022-11-28,2022-11-29,CUST991,Manoj,Home Office,USA,North America,Technology,Phones,Laptop Stand,1221,7,0.18,124
+ORD1332,2022-11-29,2022-11-30,CUST896,Manoj,Corporate,Canada,Oceania,Technology,Copiers,Desk Phone,913,1,0.09,-44
+ORD1333,2022-11-30,2022-12-01,CUST994,Ravi,Consumer,Australia,Oceania,Technology,Chairs,Ergonomic Chair,1784,5,0.19,467
+ORD1334,2022-12-01,2022-12-02,CUST102,Priya,Home Office,Canada,Oceania,Technology,Storage,Ink Cartridge,1893,5,0.16,450
+ORD1335,2022-12-02,2022-12-03,CUST928,Neha,Corporate,India,Europe,Technology,Storage,Ink Cartridge,538,4,0.13,432
+ORD1336,2022-12-03,2022-12-04,CUST565,Karan,Consumer,India,North America,Technology,Binders,Wireless Mouse,978,6,0.04,376
+ORD1337,2022-12-04,2022-12-05,CUST447,Ravi,Consumer,India,Europe,Furniture,Chairs,Wireless Mouse,1713,7,0.27,418
+ORD1338,2022-12-05,2022-12-06,CUST200,Ravi,Home Office,USA,Asia,Office Supplies,Phones,Ergonomic Chair,600,9,0.13,458
+ORD1339,2022-12-06,2022-12-07,CUST312,Vikram,Home Office,Australia,North America,Furniture,Chairs,Wireless Mouse,387,1,0.06,-64
+ORD1340,2022-12-07,2022-12-08,CUST866,Neha,Home Office,Germany,Asia,Furniture,Binders,Ink Cartridge,921,6,0.11,473
+ORD1341,2022-12-08,2022-12-09,CUST582,Karan,Home Office,Australia,North America,Furniture,Storage,Desk Phone,690,7,0.12,227
+ORD1342,2022-12-09,2022-12-10,CUST428,Arjun,Corporate,India,Europe,Office Supplies,Binders,Office Desk,1852,3,0.25,251
+ORD1343,2022-12-10,2022-12-11,CUST702,Anjali,Home Office,France,Europe,Technology,Binders,Desk Phone,522,8,0.22,411
+ORD1344,2022-12-11,2022-12-12,CUST107,Anjali,Consumer,Australia,Oceania,Furniture,Accessories,Laptop Stand,200,5,0.23,-60
+ORD1345,2022-12-12,2022-12-13,CUST327,Priya,Corporate,Germany,Oceania,Technology,Accessories,Ergonomic Chair,1488,9,0.0,-118
+ORD1346,2022-12-13,2022-12-14,CUST590,Anjali,Home Office,USA,Europe,Technology,Copiers,Ink Cartridge,1371,5,0.12,-24
+ORD1347,2022-12-14,2022-12-15,CUST316,Karan,Corporate,France,Europe,Furniture,Phones,Office Desk,1684,9,0.14,-3
+ORD1348,2022-12-15,2022-12-16,CUST153,Arjun,Corporate,Canada,North America,Office Supplies,Storage,Ink Cartridge,312,4,0.01,423
+ORD1349,2022-12-16,2022-12-17,CUST219,Vikram,Consumer,France,North America,Office Supplies,Storage,Ergonomic Chair,1837,9,0.08,367
+ORD1350,2022-12-17,2022-12-18,CUST574,Anjali,Corporate,Germany,Asia,Furniture,Storage,Desk Phone,193,5,0.23,490
+ORD1351,2022-12-18,2022-12-19,CUST473,Priya,Corporate,Canada,North America,Technology,Storage,Wireless Mouse,395,9,0.04,220
+ORD1352,2022-12-19,2022-12-20,CUST937,Neha,Home Office,Germany,Europe,Office Supplies,Copiers,Ergonomic Chair,673,3,0.16,200
+ORD1353,2022-12-20,2022-12-21,CUST307,Karan,Home Office,USA,Oceania,Furniture,Chairs,Desk Phone,1066,4,0.06,497
+ORD1354,2022-12-21,2022-12-22,CUST407,Arjun,Home Office,France,Europe,Office Supplies,Accessories,Desk Phone,1645,9,0.0,270
+ORD1355,2022-12-22,2022-12-23,CUST840,Manoj,Home Office,India,North America,Technology,Phones,Desk Phone,930,6,0.07,17
+ORD1356,2022-12-23,2022-12-24,CUST473,Manoj,Corporate,Australia,North America,Technology,Storage,Laptop Stand,51,2,0.29,528
+ORD1357,2022-12-24,2022-12-25,CUST349,Anjali,Home Office,USA,Europe,Office Supplies,Accessories,Office Desk,946,7,0.24,431
+ORD1358,2022-12-25,2022-12-26,CUST710,Neha,Corporate,USA,Oceania,Furniture,Accessories,Ink Cartridge,1377,2,0.29,-26
+ORD1359,2022-12-26,2022-12-27,CUST925,Manoj,Corporate,Australia,North America,Office Supplies,Copiers,Desk Phone,303,2,0.15,-178
+ORD1360,2022-12-27,2022-12-28,CUST276,Ravi,Consumer,France,Asia,Office Supplies,Copiers,Ink Cartridge,1725,1,0.03,524
+ORD1361,2022-12-28,2022-12-29,CUST587,Vikram,Corporate,USA,Asia,Office Supplies,Phones,Wireless Mouse,502,3,0.16,34
+ORD1362,2022-12-29,2022-12-30,CUST928,Manoj,Consumer,Australia,North America,Office Supplies,Binders,Ergonomic Chair,1110,6,0.14,-188
+ORD1363,2022-12-30,2022-12-31,CUST986,Ravi,Home Office,Australia,Europe,Furniture,Copiers,Wireless Mouse,1233,8,0.25,-100
+ORD1364,2022-12-31,2023-01-01,CUST436,Neha,Corporate,India,Europe,Office Supplies,Chairs,Ergonomic Chair,1064,9,0.03,335
+ORD1365,2023-01-01,2023-01-02,CUST722,Arjun,Corporate,USA,North America,Office Supplies,Chairs,Office Desk,58,7,0.15,322
+ORD1366,2023-01-02,2023-01-03,CUST771,Neha,Consumer,Canada,Asia,Technology,Accessories,Office Desk,1306,4,0.05,584
+ORD1367,2023-01-03,2023-01-04,CUST858,Ravi,Consumer,France,Asia,Furniture,Copiers,Wireless Mouse,1172,6,0.1,251
+ORD1368,2023-01-04,2023-01-05,CUST166,Ravi,Corporate,Germany,Asia,Furniture,Chairs,Wireless Mouse,1732,5,0.22,230
+ORD1369,2023-01-05,2023-01-06,CUST324,Vikram,Home Office,Australia,North America,Technology,Storage,Office Desk,865,8,0.14,592
+ORD1370,2023-01-06,2023-01-07,CUST617,Karan,Consumer,India,Europe,Furniture,Binders,Ergonomic Chair,257,1,0.11,405
+ORD1371,2023-01-07,2023-01-08,CUST644,Manoj,Corporate,Canada,North America,Furniture,Phones,Ink Cartridge,1204,1,0.12,512
+ORD1372,2023-01-08,2023-01-09,CUST876,Vikram,Consumer,Australia,North America,Office Supplies,Phones,Laptop Stand,453,6,0.14,332
+ORD1373,2023-01-09,2023-01-10,CUST316,Priya,Consumer,France,Europe,Technology,Accessories,Ink Cartridge,201,2,0.24,522
+ORD1374,2023-01-10,2023-01-11,CUST636,Anjali,Home Office,India,Europe,Office Supplies,Storage,Ergonomic Chair,103,5,0.27,451
+ORD1375,2023-01-11,2023-01-12,CUST897,Ravi,Home Office,Germany,North America,Furniture,Binders,Laptop Stand,1193,1,0.29,92
+ORD1376,2023-01-12,2023-01-13,CUST353,Anjali,Corporate,Germany,Oceania,Office Supplies,Chairs,Ink Cartridge,1746,7,0.24,-100
+ORD1377,2023-01-13,2023-01-14,CUST675,Vikram,Consumer,India,North America,Office Supplies,Copiers,Office Desk,1993,1,0.09,301
+ORD1378,2023-01-14,2023-01-15,CUST955,Arjun,Home Office,Germany,Europe,Office Supplies,Copiers,Office Desk,677,4,0.21,103
+ORD1379,2023-01-15,2023-01-16,CUST422,Anjali,Home Office,France,Europe,Technology,Binders,Wireless Mouse,636,9,0.13,339
+ORD1380,2023-01-16,2023-01-17,CUST144,Anjali,Consumer,Canada,Asia,Office Supplies,Accessories,Desk Phone,1698,1,0.08,352
+ORD1381,2023-01-17,2023-01-18,CUST966,Manoj,Corporate,India,Oceania,Furniture,Storage,Laptop Stand,1493,4,0.25,154
+ORD1382,2023-01-18,2023-01-19,CUST782,Karan,Corporate,Australia,Oceania,Furniture,Storage,Ergonomic Chair,1495,6,0.01,102
+ORD1383,2023-01-19,2023-01-20,CUST641,Priya,Consumer,Canada,Asia,Technology,Chairs,Office Desk,153,6,0.27,295
+ORD1384,2023-01-20,2023-01-21,CUST213,Arjun,Corporate,Canada,Europe,Technology,Chairs,Laptop Stand,1925,8,0.14,457
+ORD1385,2023-01-21,2023-01-22,CUST931,Arjun,Consumer,Canada,North America,Technology,Accessories,Desk Phone,303,1,0.19,567
+ORD1386,2023-01-22,2023-01-23,CUST173,Arjun,Corporate,Canada,Asia,Technology,Chairs,Ink Cartridge,1300,7,0.2,26
+ORD1387,2023-01-23,2023-01-24,CUST242,Neha,Corporate,India,Europe,Office Supplies,Phones,Desk Phone,1185,1,0.27,35
+ORD1388,2023-01-24,2023-01-25,CUST482,Anjali,Consumer,Canada,Oceania,Technology,Binders,Laptop Stand,559,7,0.19,254
+ORD1389,2023-01-25,2023-01-26,CUST563,Priya,Consumer,USA,Europe,Office Supplies,Storage,Laptop Stand,1546,3,0.18,-188
+ORD1390,2023-01-26,2023-01-27,CUST652,Ravi,Home Office,Australia,North America,Technology,Binders,Desk Phone,148,8,0.02,9
+ORD1391,2023-01-27,2023-01-28,CUST113,Anjali,Home Office,France,Asia,Furniture,Accessories,Office Desk,202,3,0.16,540
+ORD1392,2023-01-28,2023-01-29,CUST653,Arjun,Corporate,USA,North America,Office Supplies,Chairs,Desk Phone,1934,1,0.05,196
+ORD1393,2023-01-29,2023-01-30,CUST777,Arjun,Home Office,India,Asia,Office Supplies,Accessories,Ink Cartridge,963,8,0.22,-101
+ORD1394,2023-01-30,2023-01-31,CUST106,Vikram,Home Office,India,Europe,Office Supplies,Accessories,Ergonomic Chair,1969,3,0.15,-170
+ORD1395,2023-01-31,2023-02-01,CUST385,Neha,Corporate,Germany,Asia,Furniture,Phones,Ergonomic Chair,927,2,0.2,327
+ORD1396,2023-02-01,2023-02-02,CUST553,Arjun,Home Office,USA,North America,Furniture,Binders,Office Desk,387,1,0.01,448
+ORD1397,2023-02-02,2023-02-03,CUST235,Ravi,Home Office,Germany,Asia,Technology,Phones,Ergonomic Chair,1779,3,0.03,128
+ORD1398,2023-02-03,2023-02-04,CUST960,Karan,Home Office,USA,Oceania,Technology,Phones,Desk Phone,871,2,0.21,-35
+ORD1399,2023-02-04,2023-02-05,CUST402,Priya,Consumer,India,Oceania,Office Supplies,Storage,Ink Cartridge,1236,2,0.02,258
+ORD1400,2023-02-05,2023-02-06,CUST676,Neha,Consumer,Canada,Oceania,Office Supplies,Chairs,Desk Phone,1793,6,0.02,-101
+ORD1401,2023-02-06,2023-02-07,CUST233,Manoj,Corporate,Canada,Europe,Technology,Binders,Laptop Stand,1006,1,0.0,420
+ORD1402,2023-02-07,2023-02-08,CUST998,Arjun,Corporate,Canada,Oceania,Furniture,Storage,Ink Cartridge,1754,2,0.29,-28
+ORD1403,2023-02-08,2023-02-09,CUST205,Arjun,Corporate,USA,Oceania,Technology,Phones,Laptop Stand,210,6,0.22,548
+ORD1404,2023-02-09,2023-02-10,CUST700,Arjun,Consumer,India,Oceania,Technology,Accessories,Ergonomic Chair,1653,3,0.11,-39
+ORD1405,2023-02-10,2023-02-11,CUST952,Arjun,Corporate,India,Asia,Furniture,Accessories,Desk Phone,850,4,0.09,527
+ORD1406,2023-02-11,2023-02-12,CUST284,Priya,Home Office,Canada,Oceania,Furniture,Accessories,Office Desk,447,1,0.1,575
+ORD1407,2023-02-12,2023-02-13,CUST379,Karan,Home Office,France,Oceania,Office Supplies,Accessories,Ink Cartridge,1350,8,0.23,62
+ORD1408,2023-02-13,2023-02-14,CUST462,Arjun,Corporate,Germany,North America,Technology,Phones,Office Desk,865,7,0.2,73
+ORD1409,2023-02-14,2023-02-15,CUST315,Neha,Home Office,Australia,Oceania,Office Supplies,Copiers,Office Desk,1989,7,0.06,-198
+ORD1410,2023-02-15,2023-02-16,CUST237,Neha,Corporate,USA,Oceania,Technology,Phones,Laptop Stand,1577,3,0.05,-173
+ORD1411,2023-02-16,2023-02-17,CUST567,Priya,Consumer,Australia,North America,Office Supplies,Phones,Ink Cartridge,1969,3,0.03,125
+ORD1412,2023-02-17,2023-02-18,CUST605,Ravi,Home Office,India,Oceania,Office Supplies,Accessories,Desk Phone,1465,2,0.2,-52
+ORD1413,2023-02-18,2023-02-19,CUST943,Neha,Corporate,Australia,North America,Office Supplies,Storage,Ergonomic Chair,1208,1,0.23,339
+ORD1414,2023-02-19,2023-02-20,CUST615,Vikram,Home Office,India,Oceania,Office Supplies,Copiers,Ink Cartridge,1268,7,0.08,287
+ORD1415,2023-02-20,2023-02-21,CUST703,Neha,Consumer,Canada,Europe,Office Supplies,Copiers,Laptop Stand,450,7,0.01,237
+ORD1416,2023-02-21,2023-02-22,CUST815,Manoj,Consumer,India,Oceania,Office Supplies,Chairs,Wireless Mouse,689,2,0.02,-136
+ORD1417,2023-02-22,2023-02-23,CUST932,Manoj,Consumer,USA,Oceania,Technology,Chairs,Laptop Stand,1106,7,0.29,155
+ORD1418,2023-02-23,2023-02-24,CUST438,Ravi,Home Office,Canada,Oceania,Technology,Accessories,Laptop Stand,737,8,0.09,332
+ORD1419,2023-02-24,2023-02-25,CUST630,Manoj,Consumer,Germany,Europe,Technology,Phones,Laptop Stand,509,1,0.23,51
+ORD1420,2023-02-25,2023-02-26,CUST214,Vikram,Consumer,Germany,North America,Office Supplies,Chairs,Ergonomic Chair,1004,9,0.19,34
+ORD1421,2023-02-26,2023-02-27,CUST373,Manoj,Home Office,France,Oceania,Office Supplies,Binders,Wireless Mouse,1956,7,0.11,26
+ORD1422,2023-02-27,2023-02-28,CUST948,Arjun,Corporate,India,Europe,Office Supplies,Phones,Ink Cartridge,519,3,0.06,324
+ORD1423,2023-02-28,2023-03-01,CUST389,Karan,Corporate,Canada,Europe,Technology,Storage,Wireless Mouse,1448,8,0.04,112
+ORD1424,2023-03-01,2023-03-02,CUST175,Arjun,Consumer,Australia,North America,Office Supplies,Phones,Laptop Stand,1095,7,0.18,-152
+ORD1425,2023-03-02,2023-03-03,CUST927,Anjali,Consumer,USA,Oceania,Office Supplies,Binders,Ink Cartridge,799,8,0.23,-83
+ORD1426,2023-03-03,2023-03-04,CUST849,Arjun,Home Office,India,Asia,Furniture,Chairs,Desk Phone,1743,6,0.19,-147
+ORD1427,2023-03-04,2023-03-05,CUST609,Arjun,Corporate,Germany,Oceania,Office Supplies,Binders,Ergonomic Chair,87,9,0.16,449
+ORD1428,2023-03-05,2023-03-06,CUST306,Vikram,Corporate,France,Asia,Furniture,Accessories,Laptop Stand,279,5,0.01,364
+ORD1429,2023-03-06,2023-03-07,CUST607,Manoj,Corporate,Germany,Asia,Technology,Accessories,Desk Phone,1438,3,0.29,-157
+ORD1430,2023-03-07,2023-03-08,CUST832,Vikram,Home Office,India,North America,Technology,Copiers,Ink Cartridge,612,3,0.24,-148
+ORD1431,2023-03-08,2023-03-09,CUST942,Karan,Corporate,France,Oceania,Technology,Phones,Ink Cartridge,487,1,0.09,385
+ORD1432,2023-03-09,2023-03-10,CUST849,Arjun,Consumer,India,Oceania,Technology,Phones,Desk Phone,1849,8,0.29,357
+ORD1433,2023-03-10,2023-03-11,CUST634,Vikram,Home Office,Germany,North America,Technology,Storage,Ergonomic Chair,1356,2,0.18,324
+ORD1434,2023-03-11,2023-03-12,CUST797,Priya,Corporate,Canada,Oceania,Furniture,Phones,Ink Cartridge,76,3,0.17,476
+ORD1435,2023-03-12,2023-03-13,CUST953,Priya,Consumer,France,Oceania,Technology,Chairs,Laptop Stand,275,8,0.22,-99
+ORD1436,2023-03-13,2023-03-14,CUST209,Arjun,Consumer,USA,Oceania,Furniture,Accessories,Ink Cartridge,1350,8,0.24,591
+ORD1437,2023-03-14,2023-03-15,CUST802,Neha,Consumer,Germany,North America,Technology,Binders,Ergonomic Chair,847,4,0.2,569
+ORD1438,2023-03-15,2023-03-16,CUST485,Ravi,Corporate,Australia,Asia,Furniture,Phones,Ink Cartridge,1682,4,0.04,197
+ORD1439,2023-03-16,2023-03-17,CUST131,Neha,Consumer,USA,Asia,Office Supplies,Phones,Laptop Stand,333,5,0.1,-63
+ORD1440,2023-03-17,2023-03-18,CUST518,Manoj,Corporate,USA,Asia,Furniture,Chairs,Desk Phone,928,6,0.28,474
+ORD1441,2023-03-18,2023-03-19,CUST343,Priya,Home Office,Canada,Oceania,Office Supplies,Accessories,Laptop Stand,1009,5,0.07,186
+ORD1442,2023-03-19,2023-03-20,CUST674,Priya,Consumer,France,Oceania,Technology,Binders,Ergonomic Chair,1554,7,0.11,-90
+ORD1443,2023-03-20,2023-03-21,CUST799,Neha,Consumer,Germany,Europe,Office Supplies,Binders,Laptop Stand,502,2,0.13,413
+ORD1444,2023-03-21,2023-03-22,CUST594,Manoj,Corporate,Australia,Asia,Office Supplies,Phones,Office Desk,1069,7,0.13,-184
+ORD1445,2023-03-22,2023-03-23,CUST684,Ravi,Home Office,USA,North America,Office Supplies,Chairs,Wireless Mouse,1902,7,0.18,579
+ORD1446,2023-03-23,2023-03-24,CUST897,Vikram,Home Office,USA,Asia,Furniture,Phones,Laptop Stand,865,1,0.28,-19
+ORD1447,2023-03-24,2023-03-25,CUST771,Neha,Consumer,India,Oceania,Office Supplies,Storage,Office Desk,708,7,0.07,335
+ORD1448,2023-03-25,2023-03-26,CUST926,Anjali,Consumer,USA,Europe,Technology,Storage,Laptop Stand,1589,5,0.04,340
+ORD1449,2023-03-26,2023-03-27,CUST350,Priya,Home Office,USA,Asia,Office Supplies,Chairs,Laptop Stand,596,3,0.06,-30
+ORD1450,2023-03-27,2023-03-28,CUST777,Anjali,Consumer,Canada,Europe,Technology,Storage,Laptop Stand,1265,3,0.27,208
+ORD1451,2023-03-28,2023-03-29,CUST376,Manoj,Home Office,France,Europe,Furniture,Binders,Wireless Mouse,1122,4,0.19,539
+ORD1452,2023-03-29,2023-03-30,CUST581,Anjali,Corporate,USA,Oceania,Furniture,Chairs,Wireless Mouse,1585,2,0.09,177
+ORD1453,2023-03-30,2023-03-31,CUST261,Anjali,Home Office,India,Europe,Office Supplies,Accessories,Wireless Mouse,66,2,0.24,-13
+ORD1454,2023-03-31,2023-04-01,CUST378,Neha,Corporate,Canada,Asia,Office Supplies,Copiers,Office Desk,1245,1,0.26,29
+ORD1455,2023-04-01,2023-04-02,CUST395,Arjun,Corporate,Canada,Asia,Furniture,Phones,Ink Cartridge,1293,5,0.25,-82
+ORD1456,2023-04-02,2023-04-03,CUST747,Karan,Consumer,Australia,Europe,Technology,Storage,Office Desk,207,4,0.28,-45
+ORD1457,2023-04-03,2023-04-04,CUST225,Ravi,Corporate,Australia,Oceania,Office Supplies,Copiers,Ink Cartridge,526,2,0.08,583
+ORD1458,2023-04-04,2023-04-05,CUST273,Arjun,Corporate,India,Oceania,Furniture,Chairs,Laptop Stand,1119,3,0.23,486
+ORD1459,2023-04-05,2023-04-06,CUST799,Manoj,Corporate,Germany,North America,Technology,Accessories,Ergonomic Chair,1446,7,0.14,264
+ORD1460,2023-04-06,2023-04-07,CUST740,Arjun,Consumer,Canada,Asia,Office Supplies,Chairs,Ergonomic Chair,567,7,0.25,-97
+ORD1461,2023-04-07,2023-04-08,CUST723,Ravi,Consumer,Australia,North America,Technology,Chairs,Ink Cartridge,148,4,0.22,403
+ORD1462,2023-04-08,2023-04-09,CUST386,Neha,Home Office,India,Asia,Office Supplies,Binders,Desk Phone,1965,5,0.23,497
+ORD1463,2023-04-09,2023-04-10,CUST731,Priya,Home Office,France,Europe,Office Supplies,Phones,Ink Cartridge,1818,5,0.2,594
+ORD1464,2023-04-10,2023-04-11,CUST928,Arjun,Home Office,India,North America,Furniture,Storage,Office Desk,1110,6,0.05,301
+ORD1465,2023-04-11,2023-04-12,CUST202,Neha,Consumer,India,North America,Technology,Storage,Desk Phone,329,9,0.16,492
+ORD1466,2023-04-12,2023-04-13,CUST585,Neha,Corporate,Canada,Europe,Office Supplies,Chairs,Ergonomic Chair,1422,2,0.3,481
+ORD1467,2023-04-13,2023-04-14,CUST591,Manoj,Home Office,USA,Asia,Furniture,Accessories,Desk Phone,546,5,0.28,498
+ORD1468,2023-04-14,2023-04-15,CUST316,Ravi,Home Office,USA,Europe,Technology,Chairs,Desk Phone,351,3,0.01,-26
+ORD1469,2023-04-15,2023-04-16,CUST520,Karan,Home Office,France,Oceania,Furniture,Accessories,Office Desk,230,4,0.05,533
+ORD1470,2023-04-16,2023-04-17,CUST523,Ravi,Consumer,Australia,Europe,Furniture,Copiers,Ergonomic Chair,656,6,0.04,544
+ORD1471,2023-04-17,2023-04-18,CUST432,Arjun,Consumer,France,Europe,Technology,Chairs,Wireless Mouse,1172,8,0.22,473
+ORD1472,2023-04-18,2023-04-19,CUST145,Ravi,Home Office,Australia,Oceania,Technology,Storage,Ink Cartridge,749,1,0.25,220
+ORD1473,2023-04-19,2023-04-20,CUST553,Karan,Consumer,Canada,Oceania,Office Supplies,Chairs,Ink Cartridge,1042,8,0.06,-67
+ORD1474,2023-04-20,2023-04-21,CUST586,Arjun,Corporate,Canada,North America,Furniture,Accessories,Office Desk,1189,7,0.15,190
+ORD1475,2023-04-21,2023-04-22,CUST861,Arjun,Consumer,Canada,Oceania,Technology,Storage,Ergonomic Chair,240,1,0.25,535
+ORD1476,2023-04-22,2023-04-23,CUST523,Neha,Corporate,India,Europe,Technology,Phones,Laptop Stand,302,2,0.22,300
+ORD1477,2023-04-23,2023-04-24,CUST757,Arjun,Corporate,Australia,Asia,Technology,Chairs,Ergonomic Chair,1030,3,0.16,464
+ORD1478,2023-04-24,2023-04-25,CUST186,Priya,Corporate,India,Asia,Technology,Storage,Ergonomic Chair,977,1,0.18,-168
+ORD1479,2023-04-25,2023-04-26,CUST924,Vikram,Consumer,India,Oceania,Furniture,Accessories,Ergonomic Chair,1234,9,0.15,-146
+ORD1480,2023-04-26,2023-04-27,CUST356,Manoj,Corporate,Canada,Europe,Technology,Accessories,Desk Phone,1329,8,0.09,318
+ORD1481,2023-04-27,2023-04-28,CUST354,Neha,Home Office,USA,Oceania,Technology,Phones,Ergonomic Chair,1396,2,0.17,555
+ORD1482,2023-04-28,2023-04-29,CUST337,Manoj,Corporate,India,Europe,Furniture,Accessories,Desk Phone,177,9,0.21,437
+ORD1483,2023-04-29,2023-04-30,CUST381,Priya,Home Office,Australia,Oceania,Technology,Copiers,Laptop Stand,67,7,0.26,-189
+ORD1484,2023-04-30,2023-05-01,CUST423,Arjun,Consumer,Canada,Europe,Furniture,Chairs,Ergonomic Chair,1866,9,0.19,327
+ORD1485,2023-05-01,2023-05-02,CUST851,Arjun,Corporate,Germany,Europe,Technology,Binders,Office Desk,1808,6,0.23,519
+ORD1486,2023-05-02,2023-05-03,CUST485,Ravi,Home Office,Australia,Europe,Technology,Binders,Office Desk,615,6,0.05,354
+ORD1487,2023-05-03,2023-05-04,CUST166,Neha,Consumer,Australia,Asia,Furniture,Storage,Office Desk,619,4,0.14,172
+ORD1488,2023-05-04,2023-05-05,CUST238,Ravi,Corporate,USA,Europe,Technology,Phones,Office Desk,1396,2,0.0,283
+ORD1489,2023-05-05,2023-05-06,CUST899,Neha,Consumer,Germany,North America,Technology,Accessories,Office Desk,1945,7,0.07,446
+ORD1490,2023-05-06,2023-05-07,CUST272,Vikram,Consumer,Australia,Europe,Technology,Chairs,Ink Cartridge,735,5,0.22,27
+ORD1491,2023-05-07,2023-05-08,CUST163,Neha,Home Office,France,North America,Office Supplies,Binders,Laptop Stand,1865,6,0.3,422
+ORD1492,2023-05-08,2023-05-09,CUST480,Karan,Home Office,France,Europe,Furniture,Chairs,Desk Phone,675,2,0.03,106
+ORD1493,2023-05-09,2023-05-10,CUST474,Vikram,Consumer,Australia,Oceania,Technology,Phones,Wireless Mouse,1361,5,0.12,256
+ORD1494,2023-05-10,2023-05-11,CUST228,Karan,Consumer,India,North America,Office Supplies,Storage,Wireless Mouse,903,4,0.24,-41
+ORD1495,2023-05-11,2023-05-12,CUST752,Ravi,Home Office,Canada,North America,Technology,Binders,Laptop Stand,1736,9,0.06,130
+ORD1496,2023-05-12,2023-05-13,CUST920,Manoj,Consumer,Canada,Asia,Furniture,Accessories,Laptop Stand,1011,6,0.17,575
+ORD1497,2023-05-13,2023-05-14,CUST345,Manoj,Corporate,France,Asia,Furniture,Accessories,Ergonomic Chair,1712,2,0.22,24
+ORD1498,2023-05-14,2023-05-15,CUST550,Arjun,Home Office,India,Asia,Technology,Storage,Office Desk,204,1,0.18,528
+ORD1499,2023-05-15,2023-05-16,CUST814,Manoj,Corporate,Germany,Europe,Technology,Copiers,Ink Cartridge,539,5,0.06,303
+ORD1500,2023-05-16,2023-05-17,CUST358,Anjali,Consumer,Canada,Europe,Technology,Binders,Ergonomic Chair,1459,9,0.11,255
+ORD1501,2023-05-17,2023-05-18,CUST674,Neha,Corporate,France,Europe,Furniture,Binders,Wireless Mouse,834,6,0.24,-156
+ORD1502,2023-05-18,2023-05-19,CUST321,Karan,Home Office,Canada,Oceania,Technology,Copiers,Wireless Mouse,1177,7,0.17,13
+ORD1503,2023-05-19,2023-05-20,CUST705,Karan,Consumer,Germany,Asia,Office Supplies,Accessories,Wireless Mouse,1466,5,0.0,-142
+ORD1504,2023-05-20,2023-05-21,CUST599,Manoj,Corporate,Canada,North America,Furniture,Chairs,Desk Phone,1884,6,0.23,443
+ORD1505,2023-05-21,2023-05-22,CUST132,Vikram,Home Office,Germany,North America,Furniture,Copiers,Ergonomic Chair,295,5,0.01,415
+ORD1506,2023-05-22,2023-05-23,CUST988,Priya,Corporate,Canada,Asia,Technology,Binders,Ink Cartridge,1249,9,0.22,-6
+ORD1507,2023-05-23,2023-05-24,CUST557,Manoj,Corporate,France,Asia,Furniture,Chairs,Ink Cartridge,1112,6,0.06,288
+ORD1508,2023-05-24,2023-05-25,CUST294,Neha,Consumer,USA,North America,Furniture,Phones,Office Desk,1550,8,0.29,-44
+ORD1509,2023-05-25,2023-05-26,CUST170,Ravi,Corporate,USA,Europe,Furniture,Binders,Wireless Mouse,1755,2,0.11,409
+ORD1510,2023-05-26,2023-05-27,CUST476,Karan,Home Office,USA,Oceania,Office Supplies,Chairs,Desk Phone,808,9,0.1,25
+ORD1511,2023-05-27,2023-05-28,CUST265,Vikram,Consumer,France,Europe,Technology,Storage,Desk Phone,587,5,0.04,211
+ORD1512,2023-05-28,2023-05-29,CUST742,Neha,Home Office,Australia,North America,Technology,Copiers,Ink Cartridge,1940,7,0.09,4
+ORD1513,2023-05-29,2023-05-30,CUST928,Ravi,Home Office,USA,Oceania,Furniture,Storage,Laptop Stand,1891,1,0.26,-122
+ORD1514,2023-05-30,2023-05-31,CUST138,Anjali,Home Office,India,Asia,Office Supplies,Accessories,Office Desk,970,5,0.3,-77
+ORD1515,2023-05-31,2023-06-01,CUST787,Arjun,Home Office,Australia,North America,Technology,Chairs,Ink Cartridge,457,2,0.11,270
+ORD1516,2023-06-01,2023-06-02,CUST493,Neha,Home Office,India,Oceania,Furniture,Storage,Desk Phone,574,6,0.13,17
+ORD1517,2023-06-02,2023-06-03,CUST977,Anjali,Home Office,Australia,Oceania,Technology,Accessories,Ink Cartridge,877,1,0.22,315
+ORD1518,2023-06-03,2023-06-04,CUST879,Anjali,Consumer,Canada,Europe,Office Supplies,Accessories,Desk Phone,1579,3,0.27,401
+ORD1519,2023-06-04,2023-06-05,CUST405,Neha,Consumer,Australia,North America,Technology,Chairs,Laptop Stand,952,5,0.18,-97
+ORD1520,2023-06-05,2023-06-06,CUST778,Ravi,Consumer,Australia,Asia,Office Supplies,Accessories,Ergonomic Chair,1898,4,0.12,192
+ORD1521,2023-06-06,2023-06-07,CUST952,Manoj,Consumer,Canada,Europe,Office Supplies,Phones,Office Desk,85,3,0.12,430
+ORD1522,2023-06-07,2023-06-08,CUST383,Neha,Corporate,Canada,North America,Office Supplies,Storage,Office Desk,734,5,0.21,444
+ORD1523,2023-06-08,2023-06-09,CUST358,Arjun,Consumer,Australia,Asia,Furniture,Accessories,Ink Cartridge,69,8,0.0,407
+ORD1524,2023-06-09,2023-06-10,CUST498,Anjali,Home Office,India,North America,Technology,Chairs,Ergonomic Chair,370,4,0.19,233
+ORD1525,2023-06-10,2023-06-11,CUST244,Neha,Corporate,Australia,Oceania,Technology,Copiers,Office Desk,1849,1,0.11,130
+ORD1526,2023-06-11,2023-06-12,CUST801,Ravi,Home Office,Australia,North America,Technology,Copiers,Wireless Mouse,561,7,0.24,-58
+ORD1527,2023-06-12,2023-06-13,CUST347,Vikram,Consumer,Australia,North America,Technology,Copiers,Office Desk,449,8,0.03,599
+ORD1528,2023-06-13,2023-06-14,CUST175,Priya,Consumer,France,Asia,Furniture,Storage,Ink Cartridge,703,3,0.18,339
+ORD1529,2023-06-14,2023-06-15,CUST945,Priya,Home Office,France,North America,Technology,Chairs,Ergonomic Chair,1021,6,0.14,77
+ORD1530,2023-06-15,2023-06-16,CUST848,Arjun,Home Office,USA,Europe,Furniture,Storage,Wireless Mouse,1956,2,0.19,32
+ORD1531,2023-06-16,2023-06-17,CUST302,Neha,Corporate,Canada,Europe,Office Supplies,Binders,Laptop Stand,520,7,0.02,328
+ORD1532,2023-06-17,2023-06-18,CUST318,Priya,Home Office,Australia,Asia,Technology,Chairs,Wireless Mouse,1216,8,0.17,370
+ORD1533,2023-06-18,2023-06-19,CUST760,Vikram,Consumer,Canada,Asia,Office Supplies,Chairs,Desk Phone,1165,6,0.17,-111
+ORD1534,2023-06-19,2023-06-20,CUST386,Karan,Home Office,France,North America,Furniture,Phones,Ergonomic Chair,1427,6,0.17,291
+ORD1535,2023-06-20,2023-06-21,CUST623,Karan,Home Office,Australia,Asia,Office Supplies,Binders,Ergonomic Chair,883,5,0.18,-2
+ORD1536,2023-06-21,2023-06-22,CUST689,Anjali,Corporate,USA,Europe,Office Supplies,Chairs,Laptop Stand,1873,8,0.2,161
+ORD1537,2023-06-22,2023-06-23,CUST381,Anjali,Home Office,India,North America,Technology,Storage,Laptop Stand,776,1,0.24,240
+ORD1538,2023-06-23,2023-06-24,CUST400,Ravi,Home Office,Canada,North America,Technology,Binders,Ergonomic Chair,903,4,0.08,-175
+ORD1539,2023-06-24,2023-06-25,CUST548,Vikram,Consumer,Australia,Oceania,Office Supplies,Phones,Desk Phone,100,4,0.25,-176
+ORD1540,2023-06-25,2023-06-26,CUST381,Anjali,Home Office,India,Asia,Technology,Binders,Laptop Stand,1738,3,0.15,193
+ORD1541,2023-06-26,2023-06-27,CUST363,Priya,Consumer,Australia,Europe,Technology,Accessories,Ergonomic Chair,1771,3,0.02,306
+ORD1542,2023-06-27,2023-06-28,CUST380,Vikram,Home Office,USA,Asia,Furniture,Binders,Ink Cartridge,624,4,0.02,100
+ORD1543,2023-06-28,2023-06-29,CUST767,Vikram,Home Office,USA,Asia,Technology,Phones,Laptop Stand,1263,1,0.1,138
+ORD1544,2023-06-29,2023-06-30,CUST345,Karan,Consumer,Canada,Oceania,Office Supplies,Binders,Office Desk,1198,2,0.24,66
+ORD1545,2023-06-30,2023-07-01,CUST728,Karan,Home Office,Canada,Asia,Technology,Accessories,Ink Cartridge,199,9,0.21,260
+ORD1546,2023-07-01,2023-07-02,CUST713,Neha,Consumer,USA,North America,Furniture,Accessories,Desk Phone,363,2,0.24,492
+ORD1547,2023-07-02,2023-07-03,CUST166,Ravi,Consumer,India,Europe,Office Supplies,Storage,Ink Cartridge,619,5,0.16,255
+ORD1548,2023-07-03,2023-07-04,CUST986,Ravi,Home Office,Canada,North America,Furniture,Chairs,Laptop Stand,1415,9,0.13,159
+ORD1549,2023-07-04,2023-07-05,CUST881,Vikram,Corporate,Canada,Europe,Technology,Phones,Desk Phone,354,9,0.04,-133
+ORD1550,2023-07-05,2023-07-06,CUST315,Vikram,Corporate,Australia,Oceania,Furniture,Copiers,Office Desk,1765,8,0.1,211
+ORD1551,2023-07-06,2023-07-07,CUST245,Karan,Corporate,Canada,North America,Office Supplies,Copiers,Office Desk,731,1,0.13,290
+ORD1552,2023-07-07,2023-07-08,CUST849,Anjali,Corporate,India,Asia,Technology,Storage,Office Desk,887,1,0.03,-152
+ORD1553,2023-07-08,2023-07-09,CUST862,Ravi,Corporate,Canada,North America,Technology,Binders,Ergonomic Chair,1856,9,0.07,486
+ORD1554,2023-07-09,2023-07-10,CUST453,Priya,Consumer,Canada,Europe,Office Supplies,Phones,Ink Cartridge,1127,8,0.18,363
+ORD1555,2023-07-10,2023-07-11,CUST920,Manoj,Consumer,Canada,Asia,Furniture,Copiers,Laptop Stand,1052,9,0.22,-99
+ORD1556,2023-07-11,2023-07-12,CUST778,Vikram,Consumer,India,Oceania,Technology,Copiers,Laptop Stand,493,7,0.3,15
+ORD1557,2023-07-12,2023-07-13,CUST117,Neha,Corporate,France,Oceania,Office Supplies,Storage,Office Desk,662,3,0.28,237
+ORD1558,2023-07-13,2023-07-14,CUST508,Anjali,Home Office,India,Asia,Office Supplies,Phones,Office Desk,1042,3,0.19,499
+ORD1559,2023-07-14,2023-07-15,CUST783,Neha,Consumer,Australia,Oceania,Furniture,Phones,Office Desk,313,2,0.13,368
+ORD1560,2023-07-15,2023-07-16,CUST562,Priya,Home Office,Australia,Asia,Furniture,Phones,Desk Phone,1126,5,0.19,358
+ORD1561,2023-07-16,2023-07-17,CUST351,Karan,Corporate,Germany,Oceania,Technology,Copiers,Ink Cartridge,1645,3,0.24,-42
+ORD1562,2023-07-17,2023-07-18,CUST785,Manoj,Consumer,India,Oceania,Furniture,Phones,Wireless Mouse,1053,6,0.04,288
+ORD1563,2023-07-18,2023-07-19,CUST952,Arjun,Consumer,Germany,North America,Office Supplies,Chairs,Office Desk,1693,2,0.12,485
+ORD1564,2023-07-19,2023-07-20,CUST438,Anjali,Home Office,Australia,Asia,Office Supplies,Phones,Ergonomic Chair,54,3,0.25,41
+ORD1565,2023-07-20,2023-07-21,CUST503,Ravi,Consumer,Germany,Europe,Office Supplies,Copiers,Wireless Mouse,1176,5,0.12,593
+ORD1566,2023-07-21,2023-07-22,CUST166,Ravi,Consumer,India,Europe,Office Supplies,Phones,Office Desk,1269,1,0.17,552
+ORD1567,2023-07-22,2023-07-23,CUST595,Ravi,Corporate,France,North America,Technology,Accessories,Desk Phone,823,1,0.18,-196
+ORD1568,2023-07-23,2023-07-24,CUST579,Priya,Home Office,Germany,Oceania,Technology,Chairs,Office Desk,926,9,0.06,395
+ORD1569,2023-07-24,2023-07-25,CUST305,Priya,Consumer,Australia,Europe,Furniture,Phones,Wireless Mouse,1041,7,0.11,160
+ORD1570,2023-07-25,2023-07-26,CUST329,Karan,Consumer,Australia,North America,Furniture,Accessories,Ink Cartridge,933,1,0.1,258
+ORD1571,2023-07-26,2023-07-27,CUST589,Priya,Home Office,India,Oceania,Technology,Storage,Laptop Stand,1423,8,0.01,47
+ORD1572,2023-07-27,2023-07-28,CUST488,Arjun,Consumer,Canada,Europe,Furniture,Storage,Laptop Stand,96,3,0.01,365
+ORD1573,2023-07-28,2023-07-29,CUST502,Neha,Consumer,Canada,Asia,Furniture,Chairs,Desk Phone,916,8,0.25,472
+ORD1574,2023-07-29,2023-07-30,CUST474,Anjali,Consumer,Germany,Asia,Furniture,Binders,Office Desk,872,5,0.08,221
+ORD1575,2023-07-30,2023-07-31,CUST251,Neha,Consumer,Canada,North America,Technology,Binders,Desk Phone,985,1,0.16,537
+ORD1576,2023-07-31,2023-08-01,CUST191,Neha,Consumer,Canada,Oceania,Technology,Storage,Office Desk,1893,7,0.09,-186
+ORD1577,2023-08-01,2023-08-02,CUST834,Manoj,Corporate,Canada,Oceania,Office Supplies,Chairs,Wireless Mouse,705,5,0.28,535
+ORD1578,2023-08-02,2023-08-03,CUST288,Manoj,Home Office,India,Oceania,Technology,Chairs,Ergonomic Chair,318,6,0.08,372
+ORD1579,2023-08-03,2023-08-04,CUST688,Arjun,Corporate,Australia,Asia,Technology,Accessories,Office Desk,419,6,0.13,-79
+ORD1580,2023-08-04,2023-08-05,CUST164,Karan,Corporate,India,Oceania,Technology,Chairs,Laptop Stand,685,8,0.26,76
+ORD1581,2023-08-05,2023-08-06,CUST837,Vikram,Consumer,Australia,Europe,Technology,Binders,Desk Phone,1179,9,0.25,357
+ORD1582,2023-08-06,2023-08-07,CUST516,Ravi,Home Office,USA,North America,Technology,Phones,Ink Cartridge,1743,2,0.06,252
+ORD1583,2023-08-07,2023-08-08,CUST301,Manoj,Consumer,Australia,North America,Technology,Storage,Wireless Mouse,1732,9,0.24,189
+ORD1584,2023-08-08,2023-08-09,CUST157,Manoj,Consumer,USA,Asia,Office Supplies,Chairs,Laptop Stand,706,9,0.14,93
+ORD1585,2023-08-09,2023-08-10,CUST376,Vikram,Corporate,France,Oceania,Technology,Binders,Ink Cartridge,169,7,0.14,373
+ORD1586,2023-08-10,2023-08-11,CUST401,Priya,Corporate,Australia,North America,Office Supplies,Binders,Ergonomic Chair,880,1,0.04,397
+ORD1587,2023-08-11,2023-08-12,CUST712,Neha,Home Office,Australia,Oceania,Office Supplies,Chairs,Ink Cartridge,1860,7,0.02,245
+ORD1588,2023-08-12,2023-08-13,CUST263,Anjali,Home Office,Australia,Europe,Technology,Phones,Office Desk,1677,5,0.22,9
+ORD1589,2023-08-13,2023-08-14,CUST254,Vikram,Home Office,France,Asia,Furniture,Binders,Ergonomic Chair,1131,6,0.15,389
+ORD1590,2023-08-14,2023-08-15,CUST692,Vikram,Home Office,Australia,Europe,Technology,Binders,Ink Cartridge,1419,7,0.13,513
+ORD1591,2023-08-15,2023-08-16,CUST152,Neha,Home Office,USA,Oceania,Furniture,Chairs,Office Desk,790,5,0.22,101
+ORD1592,2023-08-16,2023-08-17,CUST303,Ravi,Home Office,France,Oceania,Technology,Phones,Office Desk,1547,7,0.23,22
+ORD1593,2023-08-17,2023-08-18,CUST857,Manoj,Consumer,Canada,North America,Technology,Phones,Desk Phone,166,9,0.05,533
+ORD1594,2023-08-18,2023-08-19,CUST372,Arjun,Corporate,Canada,North America,Office Supplies,Storage,Ergonomic Chair,1903,3,0.18,-198
+ORD1595,2023-08-19,2023-08-20,CUST998,Arjun,Home Office,Australia,Asia,Furniture,Accessories,Office Desk,840,8,0.04,317
+ORD1596,2023-08-20,2023-08-21,CUST591,Karan,Home Office,Australia,Oceania,Furniture,Storage,Ink Cartridge,1200,2,0.23,-108
+ORD1597,2023-08-21,2023-08-22,CUST644,Vikram,Home Office,France,Europe,Furniture,Accessories,Ink Cartridge,1466,7,0.2,319
+ORD1598,2023-08-22,2023-08-23,CUST897,Priya,Home Office,Australia,North America,Technology,Storage,Office Desk,1981,2,0.29,227
+ORD1599,2023-08-23,2023-08-24,CUST212,Manoj,Home Office,Australia,Europe,Office Supplies,Phones,Laptop Stand,1062,4,0.02,292
+ORD1600,2023-08-24,2023-08-25,CUST660,Priya,Consumer,India,Oceania,Office Supplies,Binders,Wireless Mouse,1714,7,0.02,34
+ORD1601,2023-08-25,2023-08-26,CUST250,Priya,Corporate,USA,Europe,Technology,Binders,Desk Phone,1131,3,0.08,419
+ORD1602,2023-08-26,2023-08-27,CUST818,Arjun,Corporate,Germany,Oceania,Office Supplies,Chairs,Ink Cartridge,683,2,0.08,-40
+ORD1603,2023-08-27,2023-08-28,CUST836,Arjun,Corporate,India,Europe,Office Supplies,Copiers,Ink Cartridge,562,7,0.07,520
+ORD1604,2023-08-28,2023-08-29,CUST973,Karan,Consumer,Canada,Asia,Office Supplies,Storage,Desk Phone,1824,1,0.27,551
+ORD1605,2023-08-29,2023-08-30,CUST531,Neha,Consumer,France,Asia,Technology,Binders,Ink Cartridge,851,8,0.07,130
+ORD1606,2023-08-30,2023-08-31,CUST708,Anjali,Home Office,Canada,Europe,Office Supplies,Binders,Laptop Stand,1169,3,0.08,132
+ORD1607,2023-08-31,2023-09-01,CUST136,Arjun,Consumer,Australia,Oceania,Technology,Accessories,Office Desk,1711,2,0.23,-151
+ORD1608,2023-09-01,2023-09-02,CUST929,Manoj,Corporate,USA,Oceania,Technology,Copiers,Ink Cartridge,1191,3,0.13,322
+ORD1609,2023-09-02,2023-09-03,CUST228,Karan,Corporate,Germany,Europe,Office Supplies,Copiers,Ink Cartridge,609,5,0.23,467
+ORD1610,2023-09-03,2023-09-04,CUST418,Karan,Home Office,Germany,North America,Technology,Chairs,Desk Phone,1674,8,0.02,291
+ORD1611,2023-09-04,2023-09-05,CUST367,Ravi,Home Office,Canada,North America,Technology,Copiers,Laptop Stand,537,7,0.15,381
+ORD1612,2023-09-05,2023-09-06,CUST321,Anjali,Consumer,Australia,Oceania,Furniture,Copiers,Wireless Mouse,1310,7,0.01,480
+ORD1613,2023-09-06,2023-09-07,CUST103,Neha,Corporate,Germany,Oceania,Technology,Accessories,Desk Phone,1958,7,0.02,71
+ORD1614,2023-09-07,2023-09-08,CUST913,Vikram,Consumer,India,Oceania,Technology,Binders,Wireless Mouse,946,8,0.27,379
+ORD1615,2023-09-08,2023-09-09,CUST588,Karan,Home Office,Australia,Asia,Technology,Chairs,Ergonomic Chair,1345,1,0.04,51
+ORD1616,2023-09-09,2023-09-10,CUST701,Arjun,Corporate,Canada,Asia,Office Supplies,Phones,Desk Phone,1262,4,0.16,359
+ORD1617,2023-09-10,2023-09-11,CUST322,Vikram,Corporate,Canada,Oceania,Technology,Storage,Ink Cartridge,753,6,0.12,495
+ORD1618,2023-09-11,2023-09-12,CUST636,Vikram,Consumer,France,Asia,Furniture,Binders,Office Desk,1520,9,0.1,498
+ORD1619,2023-09-12,2023-09-13,CUST516,Neha,Corporate,India,North America,Technology,Accessories,Office Desk,630,2,0.27,-111
+ORD1620,2023-09-13,2023-09-14,CUST752,Arjun,Corporate,India,Oceania,Furniture,Chairs,Desk Phone,839,1,0.01,245
+ORD1621,2023-09-14,2023-09-15,CUST865,Manoj,Home Office,USA,North America,Furniture,Phones,Desk Phone,910,2,0.2,131
+ORD1622,2023-09-15,2023-09-16,CUST185,Priya,Corporate,India,Oceania,Furniture,Chairs,Desk Phone,296,7,0.29,-62
+ORD1623,2023-09-16,2023-09-17,CUST487,Neha,Corporate,India,North America,Furniture,Copiers,Laptop Stand,1149,3,0.17,156
+ORD1624,2023-09-17,2023-09-18,CUST901,Karan,Home Office,France,Oceania,Furniture,Binders,Ink Cartridge,203,2,0.28,400
+ORD1625,2023-09-18,2023-09-19,CUST743,Karan,Home Office,Australia,Europe,Furniture,Storage,Ergonomic Chair,1729,7,0.02,73
+ORD1626,2023-09-19,2023-09-20,CUST671,Arjun,Corporate,France,Europe,Technology,Chairs,Laptop Stand,1508,2,0.13,-182
+ORD1627,2023-09-20,2023-09-21,CUST303,Vikram,Corporate,Australia,Oceania,Office Supplies,Accessories,Ergonomic Chair,1046,3,0.08,110
+ORD1628,2023-09-21,2023-09-22,CUST818,Vikram,Corporate,Canada,North America,Furniture,Accessories,Office Desk,1159,7,0.22,-47
+ORD1629,2023-09-22,2023-09-23,CUST386,Priya,Home Office,Germany,Asia,Office Supplies,Chairs,Wireless Mouse,746,4,0.29,189
+ORD1630,2023-09-23,2023-09-24,CUST136,Karan,Corporate,India,Oceania,Office Supplies,Accessories,Laptop Stand,1358,1,0.08,59
+ORD1631,2023-09-24,2023-09-25,CUST365,Arjun,Consumer,Canada,Europe,Office Supplies,Accessories,Office Desk,1293,5,0.2,419
+ORD1632,2023-09-25,2023-09-26,CUST632,Karan,Home Office,Germany,Europe,Furniture,Binders,Desk Phone,1142,9,0.06,596
+ORD1633,2023-09-26,2023-09-27,CUST536,Priya,Consumer,USA,North America,Furniture,Storage,Desk Phone,1120,8,0.17,370
+ORD1634,2023-09-27,2023-09-28,CUST894,Vikram,Corporate,Canada,Oceania,Office Supplies,Accessories,Ergonomic Chair,1058,9,0.14,-76
+ORD1635,2023-09-28,2023-09-29,CUST597,Vikram,Consumer,Germany,North America,Technology,Copiers,Wireless Mouse,143,9,0.29,153
+ORD1636,2023-09-29,2023-09-30,CUST935,Priya,Consumer,India,Europe,Technology,Storage,Laptop Stand,1823,7,0.18,72
+ORD1637,2023-09-30,2023-10-01,CUST406,Karan,Home Office,USA,Oceania,Office Supplies,Storage,Office Desk,1007,4,0.1,418
+ORD1638,2023-10-01,2023-10-02,CUST269,Karan,Corporate,Australia,Europe,Furniture,Copiers,Wireless Mouse,1061,5,0.03,44
+ORD1639,2023-10-02,2023-10-03,CUST662,Neha,Home Office,Australia,Oceania,Technology,Binders,Desk Phone,502,1,0.05,249
+ORD1640,2023-10-03,2023-10-04,CUST513,Manoj,Home Office,France,North America,Technology,Binders,Wireless Mouse,1277,1,0.07,46
+ORD1641,2023-10-04,2023-10-05,CUST993,Arjun,Corporate,France,Europe,Office Supplies,Phones,Office Desk,961,3,0.08,319
+ORD1642,2023-10-05,2023-10-06,CUST132,Vikram,Corporate,Germany,Europe,Furniture,Storage,Wireless Mouse,267,8,0.26,-60
+ORD1643,2023-10-06,2023-10-07,CUST865,Karan,Corporate,Australia,Asia,Technology,Binders,Desk Phone,523,2,0.17,161
+ORD1644,2023-10-07,2023-10-08,CUST931,Priya,Corporate,France,Oceania,Furniture,Storage,Office Desk,481,4,0.16,-193
+ORD1645,2023-10-08,2023-10-09,CUST155,Priya,Home Office,France,Oceania,Furniture,Binders,Ink Cartridge,390,2,0.03,277
+ORD1646,2023-10-09,2023-10-10,CUST443,Karan,Corporate,Australia,Asia,Office Supplies,Accessories,Ergonomic Chair,600,5,0.26,151
+ORD1647,2023-10-10,2023-10-11,CUST237,Anjali,Consumer,France,Asia,Office Supplies,Storage,Ink Cartridge,1685,9,0.22,294
+ORD1648,2023-10-11,2023-10-12,CUST174,Neha,Home Office,USA,Europe,Office Supplies,Copiers,Desk Phone,1362,1,0.02,405
+ORD1649,2023-10-12,2023-10-13,CUST737,Neha,Corporate,Australia,Europe,Technology,Storage,Ergonomic Chair,1327,5,0.21,226
+ORD1650,2023-10-13,2023-10-14,CUST740,Anjali,Corporate,Australia,Oceania,Office Supplies,Storage,Laptop Stand,1807,9,0.16,-162
+ORD1651,2023-10-14,2023-10-15,CUST907,Anjali,Corporate,Germany,North America,Technology,Chairs,Laptop Stand,406,1,0.02,392
+ORD1652,2023-10-15,2023-10-16,CUST600,Ravi,Corporate,USA,Oceania,Technology,Storage,Office Desk,72,9,0.14,-14
+ORD1653,2023-10-16,2023-10-17,CUST430,Manoj,Home Office,Canada,Oceania,Furniture,Phones,Desk Phone,1835,8,0.15,395
+ORD1654,2023-10-17,2023-10-18,CUST640,Manoj,Home Office,USA,Oceania,Furniture,Phones,Wireless Mouse,571,4,0.05,399
+ORD1655,2023-10-18,2023-10-19,CUST943,Vikram,Consumer,Canada,Oceania,Office Supplies,Accessories,Laptop Stand,1831,5,0.28,553
+ORD1656,2023-10-19,2023-10-20,CUST304,Priya,Home Office,USA,Europe,Furniture,Binders,Laptop Stand,1910,5,0.25,-108
+ORD1657,2023-10-20,2023-10-21,CUST636,Neha,Home Office,Canada,Asia,Technology,Copiers,Office Desk,1173,6,0.2,-115
+ORD1658,2023-10-21,2023-10-22,CUST210,Anjali,Corporate,India,Europe,Furniture,Phones,Office Desk,851,7,0.14,-157
+ORD1659,2023-10-22,2023-10-23,CUST488,Manoj,Home Office,France,Oceania,Office Supplies,Storage,Ink Cartridge,1253,8,0.12,-64
+ORD1660,2023-10-23,2023-10-24,CUST410,Anjali,Home Office,France,Europe,Furniture,Accessories,Office Desk,1296,8,0.2,220
+ORD1661,2023-10-24,2023-10-25,CUST837,Neha,Consumer,USA,Oceania,Office Supplies,Phones,Wireless Mouse,1979,2,0.16,-127
+ORD1662,2023-10-25,2023-10-26,CUST963,Neha,Home Office,Canada,North America,Office Supplies,Accessories,Laptop Stand,811,9,0.02,347
+ORD1663,2023-10-26,2023-10-27,CUST304,Priya,Consumer,Australia,Europe,Office Supplies,Storage,Wireless Mouse,1732,7,0.15,412
+ORD1664,2023-10-27,2023-10-28,CUST866,Anjali,Corporate,Germany,Asia,Furniture,Storage,Office Desk,491,4,0.24,311
+ORD1665,2023-10-28,2023-10-29,CUST767,Neha,Home Office,Canada,Asia,Technology,Copiers,Ergonomic Chair,1681,4,0.14,-45
+ORD1666,2023-10-29,2023-10-30,CUST103,Neha,Home Office,France,Oceania,Technology,Chairs,Ergonomic Chair,818,8,0.02,54
+ORD1667,2023-10-30,2023-10-31,CUST493,Priya,Home Office,USA,Oceania,Furniture,Copiers,Ergonomic Chair,1065,4,0.24,-30
+ORD1668,2023-10-31,2023-11-01,CUST651,Anjali,Home Office,Canada,Asia,Furniture,Storage,Ink Cartridge,1398,6,0.06,527
+ORD1669,2023-11-01,2023-11-02,CUST411,Priya,Home Office,Canada,North America,Furniture,Binders,Desk Phone,565,5,0.08,-31
+ORD1670,2023-11-02,2023-11-03,CUST833,Neha,Home Office,Germany,Europe,Office Supplies,Accessories,Office Desk,1089,3,0.05,563
+ORD1671,2023-11-03,2023-11-04,CUST646,Arjun,Home Office,Germany,North America,Technology,Storage,Ink Cartridge,841,2,0.1,121
+ORD1672,2023-11-04,2023-11-05,CUST428,Priya,Home Office,Germany,North America,Office Supplies,Chairs,Office Desk,385,9,0.23,366
+ORD1673,2023-11-05,2023-11-06,CUST405,Manoj,Consumer,USA,Oceania,Furniture,Accessories,Ink Cartridge,1832,9,0.16,255
+ORD1674,2023-11-06,2023-11-07,CUST535,Karan,Home Office,Germany,Europe,Office Supplies,Binders,Ink Cartridge,307,1,0.06,402
+ORD1675,2023-11-07,2023-11-08,CUST143,Ravi,Corporate,Australia,Europe,Office Supplies,Chairs,Desk Phone,546,3,0.26,589
+ORD1676,2023-11-08,2023-11-09,CUST459,Manoj,Home Office,Australia,Asia,Furniture,Binders,Wireless Mouse,945,8,0.26,412
+ORD1677,2023-11-09,2023-11-10,CUST240,Anjali,Home Office,France,Oceania,Technology,Copiers,Ergonomic Chair,209,6,0.26,-46
+ORD1678,2023-11-10,2023-11-11,CUST260,Karan,Home Office,India,Asia,Office Supplies,Chairs,Ink Cartridge,1548,5,0.07,148
+ORD1679,2023-11-11,2023-11-12,CUST943,Ravi,Consumer,Australia,Europe,Technology,Copiers,Ink Cartridge,901,5,0.14,250
+ORD1680,2023-11-12,2023-11-13,CUST975,Arjun,Consumer,France,Oceania,Furniture,Phones,Ink Cartridge,1737,6,0.3,452
+ORD1681,2023-11-13,2023-11-14,CUST120,Anjali,Home Office,India,Asia,Furniture,Chairs,Wireless Mouse,1981,7,0.23,-28
+ORD1682,2023-11-14,2023-11-15,CUST893,Ravi,Consumer,Canada,Oceania,Office Supplies,Storage,Ergonomic Chair,739,1,0.01,-191
+ORD1683,2023-11-15,2023-11-16,CUST891,Arjun,Consumer,Australia,Europe,Technology,Accessories,Ergonomic Chair,1748,9,0.02,539
+ORD1684,2023-11-16,2023-11-17,CUST537,Vikram,Home Office,USA,Oceania,Technology,Copiers,Ergonomic Chair,429,3,0.14,64
+ORD1685,2023-11-17,2023-11-18,CUST746,Neha,Home Office,France,North America,Technology,Chairs,Office Desk,1618,4,0.27,237
+ORD1686,2023-11-18,2023-11-19,CUST560,Arjun,Consumer,Canada,Oceania,Technology,Chairs,Office Desk,1006,1,0.16,559
+ORD1687,2023-11-19,2023-11-20,CUST219,Arjun,Corporate,USA,Europe,Furniture,Storage,Ink Cartridge,740,3,0.15,46
+ORD1688,2023-11-20,2023-11-21,CUST932,Karan,Corporate,Canada,Asia,Technology,Storage,Ink Cartridge,1500,2,0.03,466
+ORD1689,2023-11-21,2023-11-22,CUST312,Ravi,Consumer,Australia,Asia,Furniture,Phones,Desk Phone,1686,2,0.2,345
+ORD1690,2023-11-22,2023-11-23,CUST230,Manoj,Corporate,France,Asia,Technology,Storage,Laptop Stand,1341,1,0.25,298
+ORD1691,2023-11-23,2023-11-24,CUST824,Manoj,Consumer,Canada,Asia,Office Supplies,Phones,Laptop Stand,1908,8,0.11,-72
+ORD1692,2023-11-24,2023-11-25,CUST289,Arjun,Consumer,Germany,North America,Furniture,Copiers,Wireless Mouse,1650,3,0.23,471
+ORD1693,2023-11-25,2023-11-26,CUST237,Neha,Corporate,USA,Oceania,Office Supplies,Chairs,Laptop Stand,1490,3,0.29,400
+ORD1694,2023-11-26,2023-11-27,CUST332,Arjun,Corporate,USA,Oceania,Furniture,Binders,Ergonomic Chair,1241,6,0.06,404
+ORD1695,2023-11-27,2023-11-28,CUST124,Neha,Corporate,Canada,Oceania,Office Supplies,Phones,Ergonomic Chair,1915,8,0.16,126
+ORD1696,2023-11-28,2023-11-29,CUST972,Priya,Consumer,India,North America,Technology,Chairs,Laptop Stand,1116,9,0.09,552
+ORD1697,2023-11-29,2023-11-30,CUST604,Ravi,Consumer,Germany,Europe,Office Supplies,Copiers,Office Desk,1629,9,0.24,203
+ORD1698,2023-11-30,2023-12-01,CUST391,Priya,Corporate,Canada,Europe,Technology,Storage,Office Desk,334,4,0.17,428
+ORD1699,2023-12-01,2023-12-02,CUST308,Manoj,Home Office,Canada,Europe,Office Supplies,Accessories,Office Desk,446,5,0.19,405
+ORD1700,2023-12-02,2023-12-03,CUST956,Vikram,Consumer,USA,Oceania,Furniture,Phones,Desk Phone,61,2,0.24,474
+ORD1701,2023-12-03,2023-12-04,CUST777,Anjali,Consumer,Canada,Europe,Office Supplies,Storage,Wireless Mouse,1680,9,0.12,410
+ORD1702,2023-12-04,2023-12-05,CUST837,Vikram,Home Office,Australia,North America,Office Supplies,Chairs,Wireless Mouse,1375,8,0.27,424
+ORD1703,2023-12-05,2023-12-06,CUST663,Arjun,Corporate,Germany,Oceania,Technology,Chairs,Wireless Mouse,1971,3,0.16,158
+ORD1704,2023-12-06,2023-12-07,CUST128,Anjali,Home Office,Australia,Asia,Office Supplies,Accessories,Office Desk,1326,9,0.05,402
+ORD1705,2023-12-07,2023-12-08,CUST204,Anjali,Home Office,India,North America,Technology,Copiers,Wireless Mouse,548,3,0.21,517
+ORD1706,2023-12-08,2023-12-09,CUST451,Priya,Corporate,India,Oceania,Technology,Binders,Wireless Mouse,803,9,0.24,-184
+ORD1707,2023-12-09,2023-12-10,CUST931,Ravi,Home Office,France,North America,Furniture,Chairs,Wireless Mouse,84,2,0.1,73
+ORD1708,2023-12-10,2023-12-11,CUST413,Priya,Consumer,Canada,Oceania,Technology,Phones,Ergonomic Chair,776,9,0.26,484
+ORD1709,2023-12-11,2023-12-12,CUST604,Anjali,Consumer,USA,North America,Furniture,Accessories,Office Desk,898,8,0.27,-85
+ORD1710,2023-12-12,2023-12-13,CUST531,Manoj,Home Office,India,North America,Technology,Storage,Office Desk,139,9,0.08,492
+ORD1711,2023-12-13,2023-12-14,CUST981,Ravi,Consumer,USA,Oceania,Furniture,Copiers,Ergonomic Chair,825,5,0.3,-110
+ORD1712,2023-12-14,2023-12-15,CUST682,Neha,Corporate,USA,North America,Technology,Accessories,Wireless Mouse,654,2,0.04,-119
+ORD1713,2023-12-15,2023-12-16,CUST179,Priya,Consumer,Canada,Oceania,Furniture,Storage,Office Desk,1995,8,0.06,123
+ORD1714,2023-12-16,2023-12-17,CUST953,Priya,Home Office,Germany,North America,Technology,Copiers,Desk Phone,1019,6,0.06,-87
+ORD1715,2023-12-17,2023-12-18,CUST131,Karan,Corporate,Germany,Oceania,Technology,Accessories,Laptop Stand,1675,8,0.27,568
+ORD1716,2023-12-18,2023-12-19,CUST631,Ravi,Consumer,Canada,Oceania,Office Supplies,Copiers,Laptop Stand,1071,5,0.2,-143
+ORD1717,2023-12-19,2023-12-20,CUST826,Neha,Home Office,Canada,North America,Technology,Chairs,Desk Phone,467,2,0.05,-47
+ORD1718,2023-12-20,2023-12-21,CUST261,Karan,Consumer,USA,Europe,Office Supplies,Copiers,Office Desk,164,6,0.13,203
+ORD1719,2023-12-21,2023-12-22,CUST481,Priya,Home Office,USA,Oceania,Furniture,Chairs,Office Desk,666,5,0.18,427
+ORD1720,2023-12-22,2023-12-23,CUST114,Karan,Corporate,Australia,North America,Furniture,Phones,Ergonomic Chair,1976,5,0.03,65
+ORD1721,2023-12-23,2023-12-24,CUST597,Manoj,Corporate,India,North America,Office Supplies,Storage,Office Desk,1269,1,0.26,114
+ORD1722,2023-12-24,2023-12-25,CUST433,Neha,Corporate,France,North America,Office Supplies,Copiers,Office Desk,875,2,0.24,514
+ORD1723,2023-12-25,2023-12-26,CUST502,Arjun,Consumer,USA,North America,Furniture,Storage,Desk Phone,1574,8,0.15,-160
+ORD1724,2023-12-26,2023-12-27,CUST895,Anjali,Home Office,Germany,Asia,Office Supplies,Binders,Ink Cartridge,1699,3,0.29,-96
+ORD1725,2023-12-27,2023-12-28,CUST238,Manoj,Home Office,Germany,North America,Furniture,Chairs,Laptop Stand,1566,3,0.13,-8
+ORD1726,2023-12-28,2023-12-29,CUST491,Ravi,Home Office,France,Europe,Furniture,Storage,Office Desk,1148,8,0.3,200
+ORD1727,2023-12-29,2023-12-30,CUST706,Neha,Consumer,France,Europe,Technology,Chairs,Ergonomic Chair,462,8,0.2,77
+ORD1728,2023-12-30,2023-12-31,CUST257,Priya,Home Office,USA,North America,Technology,Copiers,Wireless Mouse,1449,2,0.19,153
+ORD1729,2023-12-31,2024-01-01,CUST782,Vikram,Home Office,Australia,Europe,Office Supplies,Chairs,Wireless Mouse,1493,8,0.05,548
+ORD1730,2024-01-01,2024-01-02,CUST569,Karan,Consumer,France,Asia,Furniture,Chairs,Desk Phone,778,1,0.26,532
+ORD1731,2024-01-02,2024-01-03,CUST312,Anjali,Consumer,Canada,Europe,Furniture,Storage,Desk Phone,1350,6,0.13,379
+ORD1732,2024-01-03,2024-01-04,CUST637,Neha,Consumer,Australia,North America,Furniture,Chairs,Desk Phone,1070,8,0.05,508
+ORD1733,2024-01-04,2024-01-05,CUST609,Anjali,Corporate,Germany,Europe,Furniture,Copiers,Ink Cartridge,810,3,0.0,55
+ORD1734,2024-01-05,2024-01-06,CUST104,Priya,Corporate,USA,North America,Technology,Storage,Ink Cartridge,725,8,0.17,450
+ORD1735,2024-01-06,2024-01-07,CUST174,Ravi,Corporate,Australia,North America,Technology,Accessories,Office Desk,1467,1,0.16,460
+ORD1736,2024-01-07,2024-01-08,CUST995,Priya,Corporate,India,North America,Furniture,Storage,Ergonomic Chair,1942,9,0.22,-102
+ORD1737,2024-01-08,2024-01-09,CUST599,Vikram,Consumer,Australia,North America,Furniture,Binders,Ergonomic Chair,506,9,0.27,387
+ORD1738,2024-01-09,2024-01-10,CUST848,Vikram,Corporate,Australia,Oceania,Technology,Accessories,Wireless Mouse,969,5,0.02,81
+ORD1739,2024-01-10,2024-01-11,CUST831,Vikram,Consumer,India,North America,Office Supplies,Accessories,Desk Phone,241,4,0.22,202
+ORD1740,2024-01-11,2024-01-12,CUST766,Neha,Consumer,Germany,Asia,Office Supplies,Chairs,Office Desk,788,6,0.06,-92
+ORD1741,2024-01-12,2024-01-13,CUST499,Ravi,Consumer,India,Europe,Furniture,Chairs,Wireless Mouse,1762,7,0.26,499
+ORD1742,2024-01-13,2024-01-14,CUST146,Vikram,Corporate,Canada,Oceania,Furniture,Copiers,Ink Cartridge,1172,5,0.25,-2
+ORD1743,2024-01-14,2024-01-15,CUST927,Neha,Corporate,Australia,Europe,Office Supplies,Accessories,Wireless Mouse,1621,9,0.16,102
+ORD1744,2024-01-15,2024-01-16,CUST258,Karan,Consumer,Germany,Oceania,Furniture,Chairs,Laptop Stand,1027,3,0.21,126
+ORD1745,2024-01-16,2024-01-17,CUST324,Arjun,Home Office,France,North America,Furniture,Storage,Wireless Mouse,1058,7,0.09,-47
+ORD1746,2024-01-17,2024-01-18,CUST516,Priya,Corporate,Germany,Europe,Office Supplies,Copiers,Laptop Stand,145,5,0.14,351
+ORD1747,2024-01-18,2024-01-19,CUST413,Neha,Consumer,USA,Asia,Furniture,Binders,Wireless Mouse,1737,7,0.25,444
+ORD1748,2024-01-19,2024-01-20,CUST550,Priya,Home Office,USA,Europe,Technology,Chairs,Wireless Mouse,712,2,0.14,204
+ORD1749,2024-01-20,2024-01-21,CUST917,Vikram,Consumer,France,North America,Furniture,Accessories,Ink Cartridge,1263,4,0.11,261
+ORD1750,2024-01-21,2024-01-22,CUST162,Anjali,Home Office,Australia,North America,Office Supplies,Phones,Laptop Stand,1809,2,0.15,-69
+ORD1751,2024-01-22,2024-01-23,CUST920,Arjun,Consumer,France,North America,Technology,Accessories,Office Desk,86,7,0.25,590
+ORD1752,2024-01-23,2024-01-24,CUST591,Vikram,Corporate,USA,Europe,Office Supplies,Chairs,Ink Cartridge,1853,2,0.1,-117
+ORD1753,2024-01-24,2024-01-25,CUST438,Karan,Corporate,India,Asia,Furniture,Binders,Ink Cartridge,1442,1,0.05,198
+ORD1754,2024-01-25,2024-01-26,CUST766,Neha,Corporate,France,North America,Furniture,Phones,Desk Phone,1768,9,0.21,553
+ORD1755,2024-01-26,2024-01-27,CUST486,Neha,Corporate,Canada,Oceania,Furniture,Copiers,Desk Phone,1598,1,0.25,427
+ORD1756,2024-01-27,2024-01-28,CUST974,Vikram,Home Office,Canada,Oceania,Technology,Copiers,Desk Phone,328,8,0.03,-92
+ORD1757,2024-01-28,2024-01-29,CUST261,Arjun,Consumer,Germany,North America,Technology,Storage,Ergonomic Chair,266,2,0.07,20
+ORD1758,2024-01-29,2024-01-30,CUST279,Vikram,Home Office,India,Europe,Technology,Copiers,Ink Cartridge,916,8,0.04,352
+ORD1759,2024-01-30,2024-01-31,CUST854,Anjali,Consumer,USA,Oceania,Office Supplies,Phones,Ink Cartridge,922,3,0.1,167
+ORD1760,2024-01-31,2024-02-01,CUST880,Vikram,Home Office,Germany,North America,Furniture,Copiers,Laptop Stand,1871,6,0.14,-54
+ORD1761,2024-02-01,2024-02-02,CUST408,Karan,Home Office,India,Oceania,Office Supplies,Storage,Wireless Mouse,1346,3,0.22,-89
+ORD1762,2024-02-02,2024-02-03,CUST926,Priya,Corporate,France,North America,Furniture,Binders,Ergonomic Chair,1954,7,0.2,414
+ORD1763,2024-02-03,2024-02-04,CUST691,Vikram,Corporate,Germany,North America,Office Supplies,Storage,Desk Phone,111,9,0.19,357
+ORD1764,2024-02-04,2024-02-05,CUST848,Vikram,Consumer,France,North America,Technology,Storage,Laptop Stand,645,2,0.11,293
+ORD1765,2024-02-05,2024-02-06,CUST556,Vikram,Home Office,India,Asia,Technology,Chairs,Laptop Stand,1953,5,0.25,304
+ORD1766,2024-02-06,2024-02-07,CUST951,Anjali,Home Office,Australia,Oceania,Furniture,Storage,Wireless Mouse,778,6,0.14,274
+ORD1767,2024-02-07,2024-02-08,CUST589,Anjali,Consumer,USA,North America,Office Supplies,Binders,Laptop Stand,1415,4,0.29,70
+ORD1768,2024-02-08,2024-02-09,CUST153,Priya,Corporate,Germany,Asia,Furniture,Binders,Office Desk,446,4,0.19,220
+ORD1769,2024-02-09,2024-02-10,CUST859,Anjali,Consumer,India,Europe,Furniture,Phones,Ergonomic Chair,748,4,0.04,506
+ORD1770,2024-02-10,2024-02-11,CUST787,Priya,Home Office,Canada,Europe,Office Supplies,Storage,Wireless Mouse,1092,2,0.2,166
+ORD1771,2024-02-11,2024-02-12,CUST955,Anjali,Home Office,India,North America,Furniture,Accessories,Ink Cartridge,226,4,0.1,79
+ORD1772,2024-02-12,2024-02-13,CUST713,Anjali,Corporate,Australia,Asia,Technology,Chairs,Desk Phone,1685,1,0.21,82
+ORD1773,2024-02-13,2024-02-14,CUST539,Arjun,Consumer,Canada,Asia,Technology,Copiers,Desk Phone,445,6,0.02,-161
+ORD1774,2024-02-14,2024-02-15,CUST878,Ravi,Consumer,India,Oceania,Technology,Storage,Laptop Stand,494,1,0.05,-12
+ORD1775,2024-02-15,2024-02-16,CUST377,Karan,Corporate,Australia,Europe,Office Supplies,Chairs,Ink Cartridge,1306,6,0.26,-37
+ORD1776,2024-02-16,2024-02-17,CUST830,Anjali,Corporate,Australia,Europe,Technology,Accessories,Desk Phone,1988,1,0.07,335
+ORD1777,2024-02-17,2024-02-18,CUST331,Arjun,Corporate,USA,Europe,Office Supplies,Copiers,Ergonomic Chair,125,6,0.25,335
+ORD1778,2024-02-18,2024-02-19,CUST403,Neha,Home Office,India,Oceania,Office Supplies,Chairs,Ergonomic Chair,314,8,0.08,-197
+ORD1779,2024-02-19,2024-02-20,CUST153,Priya,Consumer,Canada,Oceania,Office Supplies,Phones,Wireless Mouse,504,2,0.19,89
+ORD1780,2024-02-20,2024-02-21,CUST334,Neha,Home Office,Canada,North America,Furniture,Binders,Ink Cartridge,1869,2,0.21,232
+ORD1781,2024-02-21,2024-02-22,CUST504,Arjun,Home Office,Australia,Asia,Office Supplies,Copiers,Laptop Stand,767,4,0.15,270
+ORD1782,2024-02-22,2024-02-23,CUST818,Priya,Consumer,Australia,Asia,Furniture,Chairs,Office Desk,784,3,0.09,-20
+ORD1783,2024-02-23,2024-02-24,CUST743,Neha,Home Office,Canada,North America,Furniture,Phones,Ink Cartridge,1457,4,0.06,47
+ORD1784,2024-02-24,2024-02-25,CUST877,Neha,Corporate,Australia,Europe,Furniture,Chairs,Office Desk,1637,7,0.01,427
+ORD1785,2024-02-25,2024-02-26,CUST104,Ravi,Corporate,Canada,Asia,Office Supplies,Chairs,Wireless Mouse,900,1,0.09,78
+ORD1786,2024-02-26,2024-02-27,CUST323,Ravi,Consumer,Germany,North America,Office Supplies,Accessories,Desk Phone,1579,6,0.2,380
+ORD1787,2024-02-27,2024-02-28,CUST339,Vikram,Home Office,Canada,Europe,Technology,Storage,Wireless Mouse,1440,3,0.28,53
+ORD1788,2024-02-28,2024-02-29,CUST254,Neha,Home Office,India,Asia,Technology,Storage,Desk Phone,193,7,0.26,-20
+ORD1789,2024-02-29,2024-03-01,CUST190,Manoj,Consumer,India,Oceania,Furniture,Accessories,Desk Phone,934,2,0.23,480
+ORD1790,2024-03-01,2024-03-02,CUST290,Priya,Corporate,USA,Europe,Technology,Copiers,Desk Phone,1142,2,0.24,308
+ORD1791,2024-03-02,2024-03-03,CUST859,Manoj,Consumer,Germany,Asia,Furniture,Chairs,Ink Cartridge,1172,4,0.2,560
+ORD1792,2024-03-03,2024-03-04,CUST964,Anjali,Corporate,Canada,North America,Office Supplies,Accessories,Office Desk,445,1,0.08,499
+ORD1793,2024-03-04,2024-03-05,CUST129,Vikram,Home Office,Canada,Europe,Office Supplies,Binders,Ergonomic Chair,1098,3,0.27,365
+ORD1794,2024-03-05,2024-03-06,CUST460,Priya,Consumer,India,Asia,Technology,Storage,Ergonomic Chair,997,9,0.2,125
+ORD1795,2024-03-06,2024-03-07,CUST514,Arjun,Corporate,USA,Europe,Office Supplies,Phones,Ink Cartridge,940,7,0.17,156
+ORD1796,2024-03-07,2024-03-08,CUST155,Karan,Home Office,Canada,Europe,Furniture,Storage,Office Desk,1542,7,0.03,449
+ORD1797,2024-03-08,2024-03-09,CUST383,Manoj,Home Office,Australia,Oceania,Furniture,Copiers,Wireless Mouse,1557,4,0.13,479
+ORD1798,2024-03-09,2024-03-10,CUST734,Anjali,Home Office,Australia,North America,Furniture,Storage,Wireless Mouse,1638,2,0.14,190
+ORD1799,2024-03-10,2024-03-11,CUST887,Anjali,Consumer,Germany,Oceania,Technology,Storage,Wireless Mouse,1224,4,0.26,414
+ORD1800,2024-03-11,2024-03-12,CUST665,Manoj,Home Office,India,Europe,Technology,Copiers,Ergonomic Chair,1217,6,0.16,-116
+ORD1801,2024-03-12,2024-03-13,CUST760,Anjali,Consumer,Canada,Oceania,Office Supplies,Phones,Ergonomic Chair,618,3,0.11,116
+ORD1802,2024-03-13,2024-03-14,CUST776,Manoj,Corporate,Germany,Oceania,Technology,Chairs,Ergonomic Chair,1112,1,0.29,11
+ORD1803,2024-03-14,2024-03-15,CUST914,Arjun,Corporate,Australia,North America,Furniture,Copiers,Office Desk,158,8,0.03,314
+ORD1804,2024-03-15,2024-03-16,CUST202,Ravi,Consumer,India,Asia,Furniture,Chairs,Wireless Mouse,1766,5,0.13,183
+ORD1805,2024-03-16,2024-03-17,CUST502,Arjun,Consumer,India,Europe,Technology,Accessories,Ink Cartridge,1115,5,0.01,490
+ORD1806,2024-03-17,2024-03-18,CUST394,Karan,Consumer,Australia,Europe,Furniture,Binders,Office Desk,1259,4,0.22,141
+ORD1807,2024-03-18,2024-03-19,CUST630,Arjun,Consumer,Australia,Europe,Furniture,Binders,Ergonomic Chair,984,6,0.28,-163
+ORD1808,2024-03-19,2024-03-20,CUST570,Manoj,Home Office,USA,Asia,Technology,Binders,Office Desk,447,3,0.08,310
+ORD1809,2024-03-20,2024-03-21,CUST926,Ravi,Corporate,USA,North America,Office Supplies,Binders,Desk Phone,1296,9,0.26,219
+ORD1810,2024-03-21,2024-03-22,CUST898,Manoj,Consumer,Australia,Asia,Office Supplies,Chairs,Desk Phone,683,5,0.09,550
+ORD1811,2024-03-22,2024-03-23,CUST817,Manoj,Home Office,Germany,Oceania,Technology,Phones,Ergonomic Chair,1206,3,0.27,-32
+ORD1812,2024-03-23,2024-03-24,CUST159,Neha,Corporate,Germany,North America,Technology,Copiers,Ergonomic Chair,1236,1,0.23,142
+ORD1813,2024-03-24,2024-03-25,CUST573,Vikram,Home Office,Canada,North America,Technology,Binders,Desk Phone,1288,6,0.24,105
+ORD1814,2024-03-25,2024-03-26,CUST253,Neha,Corporate,Germany,Europe,Technology,Binders,Office Desk,782,2,0.01,341
+ORD1815,2024-03-26,2024-03-27,CUST326,Vikram,Consumer,India,Oceania,Furniture,Copiers,Ergonomic Chair,284,3,0.29,501
+ORD1816,2024-03-27,2024-03-28,CUST680,Manoj,Corporate,France,Europe,Technology,Binders,Desk Phone,1916,1,0.22,336
+ORD1817,2024-03-28,2024-03-29,CUST469,Manoj,Consumer,India,North America,Technology,Accessories,Wireless Mouse,707,9,0.09,-89
+ORD1818,2024-03-29,2024-03-30,CUST278,Anjali,Corporate,France,Oceania,Furniture,Storage,Desk Phone,800,8,0.25,210
+ORD1819,2024-03-30,2024-03-31,CUST894,Arjun,Corporate,Germany,Oceania,Technology,Accessories,Office Desk,637,2,0.08,5
+ORD1820,2024-03-31,2024-04-01,CUST589,Anjali,Home Office,Canada,Oceania,Office Supplies,Accessories,Wireless Mouse,1082,8,0.26,-16
+ORD1821,2024-04-01,2024-04-02,CUST687,Manoj,Corporate,France,Asia,Furniture,Copiers,Office Desk,1147,9,0.03,181
+ORD1822,2024-04-02,2024-04-03,CUST941,Anjali,Corporate,India,Oceania,Technology,Binders,Office Desk,1003,1,0.21,295
+ORD1823,2024-04-03,2024-04-04,CUST558,Arjun,Consumer,Australia,North America,Office Supplies,Copiers,Desk Phone,541,5,0.16,178
+ORD1824,2024-04-04,2024-04-05,CUST672,Ravi,Consumer,Canada,Asia,Technology,Phones,Office Desk,962,8,0.03,-154
+ORD1825,2024-04-05,2024-04-06,CUST314,Arjun,Home Office,Canada,Asia,Technology,Phones,Desk Phone,1326,2,0.07,539
+ORD1826,2024-04-06,2024-04-07,CUST504,Ravi,Home Office,India,North America,Furniture,Chairs,Ergonomic Chair,1303,4,0.0,350
+ORD1827,2024-04-07,2024-04-08,CUST666,Anjali,Consumer,Germany,Asia,Furniture,Copiers,Wireless Mouse,1592,7,0.14,327
+ORD1828,2024-04-08,2024-04-09,CUST280,Priya,Corporate,Germany,Europe,Technology,Chairs,Ink Cartridge,1247,3,0.09,303
+ORD1829,2024-04-09,2024-04-10,CUST117,Ravi,Consumer,France,Oceania,Technology,Accessories,Office Desk,1726,5,0.18,-179
+ORD1830,2024-04-10,2024-04-11,CUST501,Ravi,Consumer,Canada,North America,Furniture,Phones,Wireless Mouse,1241,8,0.09,12
+ORD1831,2024-04-11,2024-04-12,CUST492,Neha,Corporate,France,Asia,Technology,Copiers,Wireless Mouse,219,3,0.09,109
+ORD1832,2024-04-12,2024-04-13,CUST334,Karan,Corporate,India,Europe,Furniture,Storage,Desk Phone,1466,4,0.22,460
+ORD1833,2024-04-13,2024-04-14,CUST833,Arjun,Home Office,France,Oceania,Technology,Accessories,Laptop Stand,995,9,0.01,552
+ORD1834,2024-04-14,2024-04-15,CUST239,Priya,Consumer,Australia,Europe,Technology,Storage,Laptop Stand,844,7,0.27,71
+ORD1835,2024-04-15,2024-04-16,CUST564,Ravi,Home Office,Australia,North America,Technology,Binders,Laptop Stand,683,1,0.26,370
+ORD1836,2024-04-16,2024-04-17,CUST951,Ravi,Consumer,Germany,Asia,Furniture,Phones,Ink Cartridge,1267,4,0.2,598
+ORD1837,2024-04-17,2024-04-18,CUST943,Arjun,Consumer,India,Oceania,Office Supplies,Binders,Ergonomic Chair,1590,4,0.18,1
+ORD1838,2024-04-18,2024-04-19,CUST660,Manoj,Corporate,Germany,Asia,Furniture,Phones,Office Desk,78,9,0.27,-169
+ORD1839,2024-04-19,2024-04-20,CUST678,Ravi,Consumer,Australia,Oceania,Technology,Chairs,Office Desk,1238,6,0.06,242
+ORD1840,2024-04-20,2024-04-21,CUST806,Vikram,Consumer,India,Europe,Office Supplies,Chairs,Ink Cartridge,1495,9,0.02,-39
+ORD1841,2024-04-21,2024-04-22,CUST996,Priya,Consumer,Canada,Europe,Furniture,Phones,Ergonomic Chair,388,6,0.07,566
+ORD1842,2024-04-22,2024-04-23,CUST123,Karan,Corporate,Australia,Asia,Office Supplies,Copiers,Ink Cartridge,1721,6,0.24,53
+ORD1843,2024-04-23,2024-04-24,CUST684,Ravi,Home Office,France,Asia,Furniture,Accessories,Ink Cartridge,1569,5,0.01,320
+ORD1844,2024-04-24,2024-04-25,CUST209,Ravi,Home Office,Australia,Asia,Furniture,Phones,Laptop Stand,1438,5,0.17,450
+ORD1845,2024-04-25,2024-04-26,CUST153,Priya,Corporate,India,Oceania,Furniture,Chairs,Ergonomic Chair,1906,2,0.3,279
+ORD1846,2024-04-26,2024-04-27,CUST653,Ravi,Home Office,Germany,Asia,Furniture,Chairs,Laptop Stand,1415,8,0.26,-191
+ORD1847,2024-04-27,2024-04-28,CUST642,Anjali,Home Office,USA,Europe,Technology,Accessories,Ergonomic Chair,549,8,0.16,525
+ORD1848,2024-04-28,2024-04-29,CUST696,Vikram,Corporate,Germany,Oceania,Office Supplies,Accessories,Desk Phone,1730,1,0.02,304
+ORD1849,2024-04-29,2024-04-30,CUST837,Vikram,Home Office,France,North America,Furniture,Binders,Desk Phone,560,8,0.25,584
+ORD1850,2024-04-30,2024-05-01,CUST569,Neha,Corporate,USA,Europe,Technology,Chairs,Office Desk,1400,5,0.18,359
+ORD1851,2024-05-01,2024-05-02,CUST946,Anjali,Consumer,Germany,Asia,Office Supplies,Chairs,Ink Cartridge,266,2,0.03,235
+ORD1852,2024-05-02,2024-05-03,CUST104,Arjun,Home Office,USA,Asia,Technology,Storage,Ink Cartridge,1374,2,0.03,-90
+ORD1853,2024-05-03,2024-05-04,CUST215,Priya,Home Office,USA,North America,Technology,Phones,Ink Cartridge,1205,6,0.27,-48
+ORD1854,2024-05-04,2024-05-05,CUST702,Anjali,Corporate,India,Europe,Office Supplies,Phones,Desk Phone,1877,9,0.2,434
+ORD1855,2024-05-05,2024-05-06,CUST892,Priya,Home Office,Australia,Europe,Furniture,Binders,Desk Phone,1143,1,0.25,-99
+ORD1856,2024-05-06,2024-05-07,CUST774,Arjun,Corporate,Australia,Oceania,Office Supplies,Phones,Desk Phone,1325,6,0.26,552
+ORD1857,2024-05-07,2024-05-08,CUST615,Neha,Corporate,Australia,Asia,Technology,Storage,Laptop Stand,1488,9,0.17,-10
+ORD1858,2024-05-08,2024-05-09,CUST254,Karan,Consumer,Canada,North America,Furniture,Copiers,Laptop Stand,1860,8,0.16,528
+ORD1859,2024-05-09,2024-05-10,CUST752,Neha,Consumer,India,Asia,Technology,Storage,Office Desk,494,6,0.13,362
+ORD1860,2024-05-10,2024-05-11,CUST225,Karan,Corporate,Australia,Asia,Technology,Phones,Wireless Mouse,925,3,0.1,-120
+ORD1861,2024-05-11,2024-05-12,CUST381,Anjali,Corporate,USA,Oceania,Office Supplies,Phones,Ergonomic Chair,1255,8,0.13,288
+ORD1862,2024-05-12,2024-05-13,CUST169,Anjali,Corporate,USA,Asia,Technology,Chairs,Desk Phone,216,9,0.23,-113
+ORD1863,2024-05-13,2024-05-14,CUST843,Priya,Consumer,France,Oceania,Technology,Binders,Desk Phone,140,1,0.18,-7
+ORD1864,2024-05-14,2024-05-15,CUST305,Ravi,Home Office,Australia,Europe,Furniture,Binders,Wireless Mouse,763,9,0.27,-97
+ORD1865,2024-05-15,2024-05-16,CUST311,Anjali,Consumer,Germany,Asia,Furniture,Storage,Desk Phone,1931,6,0.13,582
+ORD1866,2024-05-16,2024-05-17,CUST424,Arjun,Corporate,India,Oceania,Technology,Phones,Ergonomic Chair,1604,6,0.18,-105
+ORD1867,2024-05-17,2024-05-18,CUST935,Vikram,Home Office,Germany,North America,Technology,Storage,Office Desk,88,4,0.19,222
+ORD1868,2024-05-18,2024-05-19,CUST921,Anjali,Consumer,Australia,Asia,Technology,Phones,Wireless Mouse,1199,1,0.18,-3
+ORD1869,2024-05-19,2024-05-20,CUST676,Manoj,Consumer,Germany,Europe,Technology,Binders,Desk Phone,1524,8,0.21,-200
+ORD1870,2024-05-20,2024-05-21,CUST352,Neha,Consumer,Australia,North America,Furniture,Phones,Ink Cartridge,222,2,0.07,206
+ORD1871,2024-05-21,2024-05-22,CUST561,Priya,Home Office,USA,Asia,Furniture,Phones,Desk Phone,702,1,0.15,177
+ORD1872,2024-05-22,2024-05-23,CUST338,Karan,Corporate,Canada,Europe,Furniture,Copiers,Laptop Stand,803,2,0.03,-34
+ORD1873,2024-05-23,2024-05-24,CUST129,Priya,Home Office,France,Oceania,Furniture,Phones,Ink Cartridge,1293,1,0.12,308
+ORD1874,2024-05-24,2024-05-25,CUST400,Karan,Home Office,Australia,Oceania,Furniture,Storage,Laptop Stand,1711,1,0.15,437
+ORD1875,2024-05-25,2024-05-26,CUST657,Vikram,Consumer,Germany,North America,Furniture,Chairs,Office Desk,1131,9,0.2,112
+ORD1876,2024-05-26,2024-05-27,CUST392,Arjun,Home Office,France,Europe,Furniture,Accessories,Ink Cartridge,1733,1,0.29,392
+ORD1877,2024-05-27,2024-05-28,CUST966,Arjun,Consumer,Canada,Asia,Furniture,Phones,Ergonomic Chair,525,4,0.18,217
+ORD1878,2024-05-28,2024-05-29,CUST985,Manoj,Consumer,France,North America,Furniture,Chairs,Ergonomic Chair,505,6,0.22,562
+ORD1879,2024-05-29,2024-05-30,CUST498,Arjun,Consumer,France,Europe,Office Supplies,Binders,Desk Phone,878,7,0.15,480
+ORD1880,2024-05-30,2024-05-31,CUST136,Manoj,Home Office,Canada,Asia,Technology,Accessories,Office Desk,944,2,0.19,276
+ORD1881,2024-05-31,2024-06-01,CUST524,Anjali,Corporate,India,North America,Technology,Chairs,Laptop Stand,1434,6,0.02,-128
+ORD1882,2024-06-01,2024-06-02,CUST559,Priya,Corporate,Canada,North America,Technology,Accessories,Desk Phone,1074,7,0.08,-60
+ORD1883,2024-06-02,2024-06-03,CUST658,Neha,Home Office,India,Asia,Office Supplies,Copiers,Office Desk,436,2,0.11,381
+ORD1884,2024-06-03,2024-06-04,CUST981,Manoj,Corporate,Canada,Oceania,Office Supplies,Chairs,Laptop Stand,397,2,0.14,61
+ORD1885,2024-06-04,2024-06-05,CUST598,Ravi,Home Office,Canada,Asia,Technology,Binders,Ergonomic Chair,239,7,0.01,139
+ORD1886,2024-06-05,2024-06-06,CUST435,Arjun,Corporate,Australia,North America,Technology,Storage,Office Desk,554,1,0.04,107
+ORD1887,2024-06-06,2024-06-07,CUST503,Neha,Corporate,USA,Asia,Technology,Chairs,Laptop Stand,1264,8,0.08,44
+ORD1888,2024-06-07,2024-06-08,CUST562,Anjali,Home Office,France,Asia,Technology,Binders,Wireless Mouse,1581,3,0.29,314
+ORD1889,2024-06-08,2024-06-09,CUST752,Karan,Consumer,Germany,Asia,Technology,Storage,Laptop Stand,1442,6,0.1,136
+ORD1890,2024-06-09,2024-06-10,CUST762,Vikram,Corporate,USA,Europe,Furniture,Binders,Office Desk,1482,9,0.14,374
+ORD1891,2024-06-10,2024-06-11,CUST336,Karan,Consumer,India,North America,Furniture,Accessories,Desk Phone,873,6,0.06,360
+ORD1892,2024-06-11,2024-06-12,CUST817,Neha,Consumer,Canada,North America,Office Supplies,Storage,Wireless Mouse,978,9,0.18,-125
+ORD1893,2024-06-12,2024-06-13,CUST335,Ravi,Corporate,France,Oceania,Technology,Chairs,Ink Cartridge,983,7,0.08,-26
+ORD1894,2024-06-13,2024-06-14,CUST476,Neha,Consumer,Germany,Europe,Technology,Copiers,Office Desk,1190,9,0.06,-92
+ORD1895,2024-06-14,2024-06-15,CUST303,Priya,Corporate,France,Asia,Technology,Accessories,Office Desk,183,2,0.15,-18
+ORD1896,2024-06-15,2024-06-16,CUST742,Ravi,Home Office,Germany,Asia,Office Supplies,Storage,Ink Cartridge,107,8,0.0,-9
+ORD1897,2024-06-16,2024-06-17,CUST142,Neha,Home Office,Germany,Oceania,Furniture,Accessories,Wireless Mouse,1629,8,0.0,-136
+ORD1898,2024-06-17,2024-06-18,CUST181,Priya,Corporate,USA,Oceania,Furniture,Copiers,Desk Phone,734,2,0.07,273
+ORD1899,2024-06-18,2024-06-19,CUST201,Vikram,Corporate,Canada,North America,Furniture,Accessories,Ergonomic Chair,721,4,0.01,582
+ORD1900,2024-06-19,2024-06-20,CUST872,Ravi,Corporate,USA,Asia,Office Supplies,Binders,Laptop Stand,222,7,0.03,-101
+ORD1901,2024-06-20,2024-06-21,CUST218,Ravi,Consumer,Australia,North America,Furniture,Chairs,Desk Phone,1902,4,0.1,343
+ORD1902,2024-06-21,2024-06-22,CUST374,Neha,Consumer,USA,North America,Technology,Accessories,Laptop Stand,864,4,0.24,-73
+ORD1903,2024-06-22,2024-06-23,CUST423,Manoj,Corporate,Canada,Oceania,Office Supplies,Chairs,Laptop Stand,1222,6,0.17,251
+ORD1904,2024-06-23,2024-06-24,CUST391,Neha,Corporate,Australia,Oceania,Office Supplies,Phones,Desk Phone,129,6,0.15,168
+ORD1905,2024-06-24,2024-06-25,CUST961,Ravi,Consumer,France,Oceania,Office Supplies,Binders,Laptop Stand,935,3,0.09,-158
+ORD1906,2024-06-25,2024-06-26,CUST534,Ravi,Home Office,India,Oceania,Technology,Binders,Ink Cartridge,1286,9,0.28,218
+ORD1907,2024-06-26,2024-06-27,CUST987,Priya,Corporate,France,Europe,Furniture,Storage,Ink Cartridge,252,2,0.12,287
+ORD1908,2024-06-27,2024-06-28,CUST849,Arjun,Consumer,Germany,Oceania,Furniture,Storage,Laptop Stand,813,6,0.03,-123
+ORD1909,2024-06-28,2024-06-29,CUST958,Arjun,Home Office,India,Europe,Furniture,Storage,Ergonomic Chair,1302,7,0.19,69
+ORD1910,2024-06-29,2024-06-30,CUST269,Manoj,Consumer,India,Europe,Office Supplies,Accessories,Ink Cartridge,1749,9,0.03,473
+ORD1911,2024-06-30,2024-07-01,CUST250,Arjun,Corporate,India,Europe,Technology,Chairs,Ink Cartridge,1300,3,0.1,500
+ORD1912,2024-07-01,2024-07-02,CUST480,Arjun,Consumer,Germany,Asia,Technology,Copiers,Desk Phone,1732,3,0.15,558
+ORD1913,2024-07-02,2024-07-03,CUST553,Arjun,Consumer,Germany,North America,Office Supplies,Copiers,Desk Phone,1605,7,0.26,527
+ORD1914,2024-07-03,2024-07-04,CUST199,Arjun,Home Office,Germany,Asia,Furniture,Copiers,Desk Phone,1514,4,0.15,114
+ORD1915,2024-07-04,2024-07-05,CUST519,Ravi,Corporate,Australia,Oceania,Furniture,Storage,Office Desk,1475,8,0.21,-33
+ORD1916,2024-07-05,2024-07-06,CUST177,Ravi,Consumer,Australia,North America,Furniture,Copiers,Ink Cartridge,96,7,0.3,138
+ORD1917,2024-07-06,2024-07-07,CUST121,Karan,Home Office,USA,Oceania,Office Supplies,Phones,Wireless Mouse,1306,5,0.04,-8
+ORD1918,2024-07-07,2024-07-08,CUST340,Vikram,Home Office,Australia,Asia,Furniture,Phones,Office Desk,1378,7,0.08,252
+ORD1919,2024-07-08,2024-07-09,CUST990,Priya,Corporate,Canada,Europe,Furniture,Storage,Ink Cartridge,1599,3,0.12,82
+ORD1920,2024-07-09,2024-07-10,CUST521,Vikram,Corporate,Germany,Europe,Technology,Binders,Ink Cartridge,1216,2,0.13,135
+ORD1921,2024-07-10,2024-07-11,CUST964,Karan,Consumer,India,Europe,Technology,Copiers,Ink Cartridge,1488,6,0.12,189
+ORD1922,2024-07-11,2024-07-12,CUST319,Manoj,Home Office,France,Europe,Office Supplies,Binders,Laptop Stand,1586,2,0.27,324
+ORD1923,2024-07-12,2024-07-13,CUST833,Manoj,Home Office,India,Asia,Furniture,Phones,Laptop Stand,1446,3,0.21,39
+ORD1924,2024-07-13,2024-07-14,CUST650,Karan,Consumer,India,North America,Technology,Binders,Ergonomic Chair,1639,6,0.18,282
+ORD1925,2024-07-14,2024-07-15,CUST401,Priya,Home Office,France,Asia,Office Supplies,Chairs,Ink Cartridge,1959,5,0.09,458
+ORD1926,2024-07-15,2024-07-16,CUST263,Karan,Corporate,France,Oceania,Office Supplies,Binders,Desk Phone,1332,8,0.25,515
+ORD1927,2024-07-16,2024-07-17,CUST525,Neha,Corporate,Germany,Asia,Office Supplies,Accessories,Laptop Stand,705,9,0.29,391
+ORD1928,2024-07-17,2024-07-18,CUST710,Karan,Home Office,USA,Oceania,Office Supplies,Copiers,Desk Phone,520,3,0.25,354
+ORD1929,2024-07-18,2024-07-19,CUST879,Vikram,Corporate,Germany,Europe,Furniture,Storage,Laptop Stand,1020,3,0.0,257
+ORD1930,2024-07-19,2024-07-20,CUST679,Arjun,Consumer,Australia,Asia,Technology,Copiers,Wireless Mouse,1085,3,0.19,-112
+ORD1931,2024-07-20,2024-07-21,CUST864,Anjali,Corporate,Australia,Oceania,Furniture,Phones,Wireless Mouse,1403,6,0.02,459
+ORD1932,2024-07-21,2024-07-22,CUST302,Ravi,Corporate,Canada,North America,Technology,Phones,Ergonomic Chair,785,1,0.08,-106
+ORD1933,2024-07-22,2024-07-23,CUST415,Arjun,Consumer,France,Europe,Furniture,Phones,Ergonomic Chair,833,7,0.02,251
+ORD1934,2024-07-23,2024-07-24,CUST206,Priya,Corporate,USA,Europe,Technology,Copiers,Ergonomic Chair,1017,1,0.18,227
+ORD1935,2024-07-24,2024-07-25,CUST192,Priya,Corporate,France,Asia,Office Supplies,Copiers,Laptop Stand,407,5,0.21,-50
+ORD1936,2024-07-25,2024-07-26,CUST455,Priya,Corporate,Germany,Oceania,Technology,Copiers,Ink Cartridge,1021,8,0.03,313
+ORD1937,2024-07-26,2024-07-27,CUST469,Anjali,Consumer,Canada,North America,Office Supplies,Accessories,Desk Phone,1481,4,0.12,175
+ORD1938,2024-07-27,2024-07-28,CUST588,Vikram,Home Office,Canada,Asia,Technology,Copiers,Wireless Mouse,717,5,0.14,-179
+ORD1939,2024-07-28,2024-07-29,CUST367,Anjali,Corporate,USA,Oceania,Furniture,Accessories,Ergonomic Chair,422,4,0.11,112
+ORD1940,2024-07-29,2024-07-30,CUST377,Karan,Home Office,Germany,Asia,Office Supplies,Copiers,Laptop Stand,1081,4,0.04,318
+ORD1941,2024-07-30,2024-07-31,CUST825,Ravi,Consumer,Germany,Oceania,Technology,Storage,Desk Phone,1195,8,0.13,5
+ORD1942,2024-07-31,2024-08-01,CUST237,Manoj,Home Office,USA,Asia,Office Supplies,Chairs,Office Desk,1421,2,0.23,174
+ORD1943,2024-08-01,2024-08-02,CUST765,Priya,Consumer,Germany,North America,Office Supplies,Copiers,Laptop Stand,725,1,0.02,250
+ORD1944,2024-08-02,2024-08-03,CUST123,Anjali,Home Office,Canada,North America,Technology,Accessories,Wireless Mouse,139,3,0.02,425
+ORD1945,2024-08-03,2024-08-04,CUST842,Anjali,Corporate,France,Europe,Furniture,Chairs,Office Desk,1721,9,0.11,583
+ORD1946,2024-08-04,2024-08-05,CUST888,Manoj,Consumer,Canada,Oceania,Furniture,Chairs,Ink Cartridge,747,4,0.28,394
+ORD1947,2024-08-05,2024-08-06,CUST157,Priya,Corporate,France,Asia,Office Supplies,Accessories,Wireless Mouse,1389,5,0.2,-22
+ORD1948,2024-08-06,2024-08-07,CUST944,Vikram,Corporate,India,Europe,Technology,Copiers,Ink Cartridge,1251,2,0.2,9
+ORD1949,2024-08-07,2024-08-08,CUST169,Anjali,Home Office,France,Asia,Furniture,Chairs,Wireless Mouse,589,4,0.11,299
+ORD1950,2024-08-08,2024-08-09,CUST583,Manoj,Corporate,Canada,Asia,Furniture,Copiers,Laptop Stand,781,2,0.18,263
+ORD1951,2024-08-09,2024-08-10,CUST643,Ravi,Consumer,Canada,Oceania,Office Supplies,Accessories,Laptop Stand,918,2,0.0,-77
+ORD1952,2024-08-10,2024-08-11,CUST219,Vikram,Home Office,India,Asia,Office Supplies,Accessories,Laptop Stand,90,4,0.19,-88
+ORD1953,2024-08-11,2024-08-12,CUST876,Arjun,Consumer,Germany,Oceania,Technology,Copiers,Office Desk,789,6,0.27,-189
+ORD1954,2024-08-12,2024-08-13,CUST457,Vikram,Consumer,Germany,Oceania,Technology,Copiers,Laptop Stand,1777,7,0.18,-75
+ORD1955,2024-08-13,2024-08-14,CUST915,Ravi,Consumer,France,North America,Technology,Binders,Ink Cartridge,1996,3,0.26,364
+ORD1956,2024-08-14,2024-08-15,CUST857,Karan,Home Office,USA,Oceania,Furniture,Storage,Office Desk,551,3,0.22,130
+ORD1957,2024-08-15,2024-08-16,CUST988,Karan,Home Office,Germany,Europe,Furniture,Accessories,Laptop Stand,1008,6,0.04,82
+ORD1958,2024-08-16,2024-08-17,CUST243,Anjali,Corporate,France,North America,Furniture,Phones,Office Desk,1218,3,0.27,-61
+ORD1959,2024-08-17,2024-08-18,CUST838,Arjun,Corporate,Canada,North America,Office Supplies,Copiers,Wireless Mouse,1274,2,0.02,200
+ORD1960,2024-08-18,2024-08-19,CUST245,Arjun,Home Office,Australia,Oceania,Office Supplies,Binders,Ink Cartridge,978,8,0.16,-104
+ORD1961,2024-08-19,2024-08-20,CUST346,Neha,Corporate,Germany,North America,Technology,Accessories,Wireless Mouse,1797,5,0.04,316
+ORD1962,2024-08-20,2024-08-21,CUST295,Neha,Corporate,France,Europe,Furniture,Accessories,Desk Phone,510,1,0.0,368
+ORD1963,2024-08-21,2024-08-22,CUST946,Manoj,Consumer,France,Oceania,Furniture,Copiers,Ink Cartridge,781,3,0.13,-132
+ORD1964,2024-08-22,2024-08-23,CUST454,Manoj,Home Office,Australia,North America,Furniture,Binders,Desk Phone,801,8,0.09,-83
+ORD1965,2024-08-23,2024-08-24,CUST200,Karan,Home Office,USA,Europe,Technology,Storage,Office Desk,974,4,0.15,-142
+ORD1966,2024-08-24,2024-08-25,CUST970,Ravi,Consumer,Canada,Oceania,Technology,Storage,Office Desk,958,7,0.17,-168
+ORD1967,2024-08-25,2024-08-26,CUST248,Neha,Consumer,India,Asia,Technology,Copiers,Office Desk,1631,2,0.01,117
+ORD1968,2024-08-26,2024-08-27,CUST502,Manoj,Consumer,USA,Oceania,Furniture,Copiers,Laptop Stand,1620,7,0.04,-151
+ORD1969,2024-08-27,2024-08-28,CUST639,Manoj,Corporate,Germany,North America,Technology,Copiers,Wireless Mouse,1326,5,0.17,288
+ORD1970,2024-08-28,2024-08-29,CUST420,Manoj,Home Office,USA,Asia,Furniture,Copiers,Office Desk,439,5,0.1,-182
+ORD1971,2024-08-29,2024-08-30,CUST272,Priya,Consumer,India,North America,Office Supplies,Phones,Ink Cartridge,1667,6,0.22,525
+ORD1972,2024-08-30,2024-08-31,CUST793,Manoj,Home Office,India,Asia,Office Supplies,Copiers,Laptop Stand,932,9,0.2,-4
+ORD1973,2024-08-31,2024-09-01,CUST499,Neha,Home Office,France,Europe,Office Supplies,Storage,Ink Cartridge,305,6,0.25,249
+ORD1974,2024-09-01,2024-09-02,CUST192,Priya,Corporate,Canada,North America,Technology,Chairs,Ergonomic Chair,758,8,0.21,358
+ORD1975,2024-09-02,2024-09-03,CUST302,Arjun,Consumer,Australia,Europe,Technology,Binders,Ergonomic Chair,1888,7,0.13,478
+ORD1976,2024-09-03,2024-09-04,CUST983,Priya,Consumer,France,North America,Technology,Accessories,Office Desk,1994,9,0.2,251
+ORD1977,2024-09-04,2024-09-05,CUST478,Manoj,Corporate,India,Europe,Furniture,Phones,Ink Cartridge,499,4,0.08,88
+ORD1978,2024-09-05,2024-09-06,CUST349,Karan,Consumer,France,Oceania,Technology,Accessories,Desk Phone,59,2,0.09,-60
+ORD1979,2024-09-06,2024-09-07,CUST771,Karan,Corporate,Australia,Europe,Furniture,Copiers,Laptop Stand,873,7,0.24,-117
+ORD1980,2024-09-07,2024-09-08,CUST300,Priya,Consumer,India,North America,Office Supplies,Copiers,Ink Cartridge,847,6,0.13,493
+ORD1981,2024-09-08,2024-09-09,CUST243,Anjali,Consumer,India,North America,Technology,Binders,Laptop Stand,1315,1,0.24,190
+ORD1982,2024-09-09,2024-09-10,CUST247,Vikram,Consumer,USA,Asia,Furniture,Copiers,Ergonomic Chair,1324,9,0.25,390
+ORD1983,2024-09-10,2024-09-11,CUST615,Priya,Consumer,France,Asia,Furniture,Storage,Desk Phone,926,9,0.26,14
+ORD1984,2024-09-11,2024-09-12,CUST963,Anjali,Consumer,Canada,Oceania,Furniture,Copiers,Wireless Mouse,1078,2,0.27,325
+ORD1985,2024-09-12,2024-09-13,CUST120,Karan,Home Office,India,North America,Furniture,Binders,Ergonomic Chair,1192,3,0.13,14
+ORD1986,2024-09-13,2024-09-14,CUST598,Neha,Corporate,India,Asia,Furniture,Storage,Ergonomic Chair,1065,5,0.1,202
+ORD1987,2024-09-14,2024-09-15,CUST742,Ravi,Home Office,Germany,Asia,Furniture,Chairs,Wireless Mouse,1874,5,0.17,-73
+ORD1988,2024-09-15,2024-09-16,CUST381,Neha,Consumer,India,Asia,Technology,Chairs,Laptop Stand,423,1,0.11,276
+ORD1989,2024-09-16,2024-09-17,CUST776,Neha,Corporate,Canada,North America,Office Supplies,Accessories,Ergonomic Chair,1138,8,0.18,559
+ORD1990,2024-09-17,2024-09-18,CUST324,Anjali,Corporate,Germany,Europe,Furniture,Copiers,Wireless Mouse,195,8,0.21,203
+ORD1991,2024-09-18,2024-09-19,CUST954,Vikram,Consumer,Germany,Asia,Furniture,Accessories,Ergonomic Chair,273,4,0.21,-172
+ORD1992,2024-09-19,2024-09-20,CUST641,Priya,Corporate,USA,Europe,Technology,Binders,Wireless Mouse,1312,7,0.11,591
+ORD1993,2024-09-20,2024-09-21,CUST553,Priya,Consumer,USA,North America,Technology,Chairs,Office Desk,226,3,0.05,137
+ORD1994,2024-09-21,2024-09-22,CUST544,Karan,Home Office,Australia,Asia,Office Supplies,Phones,Ergonomic Chair,1852,6,0.13,513
+ORD1995,2024-09-22,2024-09-23,CUST551,Arjun,Consumer,Germany,Oceania,Furniture,Storage,Ergonomic Chair,902,9,0.04,160
+ORD1996,2024-09-23,2024-09-24,CUST232,Anjali,Corporate,Germany,Asia,Technology,Storage,Ink Cartridge,1355,1,0.27,368
+ORD1997,2024-09-24,2024-09-25,CUST598,Ravi,Consumer,USA,Asia,Furniture,Storage,Laptop Stand,112,5,0.1,191
+ORD1998,2024-09-25,2024-09-26,CUST158,Manoj,Consumer,Canada,Europe,Office Supplies,Copiers,Ink Cartridge,1290,4,0.05,17
+ORD1999,2024-09-26,2024-09-27,CUST258,Karan,Corporate,Canada,Europe,Office Supplies,Chairs,Ink Cartridge,1927,8,0.01,373
